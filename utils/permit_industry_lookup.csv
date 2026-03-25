@@ -1,0 +1,2408 @@
+PERMIT_NUMBER,NAICS_CODE,NAICS_DESC,SIC_CODE,SIC_DESC
+MN0000086,,,3634,Electric Housewares And Fans
+MN0000256,,,2911,Petroleum Refining
+MN0000264,,,2033,Canned Fruits And Vegetables
+MN0000311,,,2026,Fluid Milk
+MN0000337,,,3999,Manufacturing Industries
+MN0000361,,,4011,"Railroads, Line-Haul Operating"
+MN0000418,,,2911,Petroleum Refining
+MN0000477,,,2033,Canned Fruits And Vegetables
+MN0000485,,,4613,Refined Petroleum Pipelines
+MN0000809,,,6512,Nonresidential Building Operators
+MN0000825,,,4911,Electric Services
+MN0000850,,,4911,Electric Services
+MN0000868,,,4911,Electric Services
+MN0000876,,,4911,Electric Services
+MN0000884,,,4911,Electric Services
+MN0000892,,,4911,Electric Services
+MN0000906,,,4911,Electric Services
+MN0000914,,,4953,Refuse Systems
+MN0000957,,,4911,Electric Services
+MN0000973,,,2621,Paper Mills
+MN0000990,,,4911,Electric Services
+MN0001007,,,4911,Electric Services
+MN0001015,,,4961,Steam And Air-Conditioning Supply
+MN0001139,,,4911,Electric Services
+MN0001147,,,3321,Gray And Ductile Iron Foundries
+MN0001171,,,2033,Canned Fruits And Vegetables
+MN0001228,,,2075,Soybean Oil Mills
+MN0001236,,,2033,Canned Fruits And Vegetables
+MN0001279,,,2037,Frozen Fruits And Vegetables
+MN0001287,,,2033,Canned Fruits And Vegetables
+MN0001309,,,1442,Construction Sand And Gravel
+MN0001317,,,2021,Creamery Butter
+MN0001325,,,3496,Miscellaneous Fabricated Wire Products
+MN0001333,,,2023,"Dry, Condensed, Evaporated Products"
+MN0001422,,,2621,Paper Mills
+MN0001449,,,2899,Chemical Preparations
+MN0001465,,,1011,Iron Ores
+MN0001554,,,4941,Water Supply
+MN0001571,,,2033,Canned Fruits And Vegetables
+MN0001686,,,2037,Frozen Fruits And Vegetables
+MN0001716,,,1446,Industrial Sand
+MN0001724,,,2431,Millwork
+MN0001929,,,2063,Beet Sugar
+MN0001937,,,2063,Beet Sugar
+MN0001945,,,2063,Beet Sugar
+MN0001988,,,4911,Electric Services
+MN0001996,,,2038,Frozen Specialties
+MN0002011,,,4911,Electric Services
+MN0002101,,,4581,"Airports, Flying Fields, & Services"
+MN0002119,,,2952,Asphalt Felts And Coatings
+MN0002135,,,2022,"Cheese, Natural And Processed"
+MN0002178,,,3711,Motor Vehicles And Car Bodies
+MN0002186,,,4911,Electric Services
+MN0002208,,,4911,Electric Services
+MN0002224,,,1422,Crushed And Broken Limestone
+MN0002275,,,6512,Nonresidential Building Operators
+MN0002313,,,2077,Animal And Marine Fats And Oils
+MN0002500,,,2015,Poultry Slaughtering And Processing
+MN0002763,,,4941,Water Supply
+MN0002968,,,8062,General Medical & Surgical Hospitals
+MN0003042,,,3221,Glass Containers
+MN0003069,,,4941,Water Supply
+MN0003182,,,4941,Water Supply
+MN0003247,,,4941,Water Supply
+MN0003301,,,4911,Electric Services
+MN0003379,,,4911,Electric Services
+MN0003417,,,3081,Unsupported Plastics Film & Sheet
+MN0003441,,,3081,Unsupported Plastics Film & Sheet
+MN0003671,,,2021,Creamery Butter
+MN0004006,,,4911,Electric Services
+MN0004031,,,1423,Crushed And Broken Granite
+MN0004111,,,4931,Electric And Other Services Combined
+MN0004413,,,0921,Fish Hatcheries And Preserves
+MN0004421,,,0921,Fish Hatcheries And Preserves
+MN0004430,,,0921,Fish Hatcheries And Preserves
+MN0020010,,,4952,Sewerage Systems
+MN0020028,,,4952,Sewerage Systems
+MN0020036,,,4952,Sewerage Systems
+MN0020044,,,4952,Sewerage Systems
+MN0020095,,,4952,Sewerage Systems
+MN0020109,,,4952,Sewerage Systems
+MN0020117,,,4952,Sewerage Systems
+MN0020125,,,4952,Sewerage Systems
+MN0020133,,,4952,Sewerage Systems
+MN0020141,,,4952,Sewerage Systems
+MN0020150,,,4952,Sewerage Systems
+MN0020168,,,4952,Sewerage Systems
+MN0020192,,,4952,Sewerage Systems
+MN0020206,,,4952,Sewerage Systems
+MN0020214,,,4952,Sewerage Systems
+MN0020222,,,4952,Sewerage Systems
+MN0020231,,,4952,Sewerage Systems
+MN0020249,,,1011,Iron Ores
+MN0020257,,,4952,Sewerage Systems
+MN0020281,,,4952,Sewerage Systems
+MN0020290,,,4952,Sewerage Systems
+MN0020303,,,4952,Sewerage Systems
+MN0020338,,,4952,Sewerage Systems
+MN0020401,,,4952,Sewerage Systems
+MN0020427,,,4952,Sewerage Systems
+MN0020443,,,4952,Sewerage Systems
+MN0020460,,,4952,Sewerage Systems
+MN0020494,,,4952,Sewerage Systems
+MN0020508,,,4952,Sewerage Systems
+MN0020532,,,4952,Sewerage Systems
+MN0020541,,,4952,Sewerage Systems
+MN0020559,,,4952,Sewerage Systems
+MN0020567,,,4952,Sewerage Systems
+MN0020575,,,4952,Sewerage Systems
+MN0020583,,,4952,Sewerage Systems
+MN0020621,,,4952,Sewerage Systems
+MN0020630,,,4952,Sewerage Systems
+MN0020656,,,4952,Sewerage Systems
+MN0020664,,,4952,Sewerage Systems
+MN0020672,,,4952,Sewerage Systems
+MN0020681,,,4952,Sewerage Systems
+MN0020699,,,4952,Sewerage Systems
+MN0020737,,,4952,Sewerage Systems
+MN0020745,,,4952,Sewerage Systems
+MN0020761,,,4952,Sewerage Systems
+MN0020770,,,4952,Sewerage Systems
+MN0020788,,,4952,Sewerage Systems
+MN0020796,,,4952,Sewerage Systems
+MN0020826,,,4952,Sewerage Systems
+MN0020834,,,4952,Sewerage Systems
+MN0020851,,,4952,Sewerage Systems
+MN0020869,,,4952,Sewerage Systems
+MN0020877,,,4952,Sewerage Systems
+MN0020885,,,4952,Sewerage Systems
+MN0020907,,,4952,Sewerage Systems
+MN0020915,,,4952,Sewerage Systems
+MN0020923,,,4952,Sewerage Systems
+MN0020940,,,4952,Sewerage Systems
+MN0020958,,,4952,Sewerage Systems
+MN0020974,,,4952,Sewerage Systems
+MN0021008,,,4952,Sewerage Systems
+MN0021016,,,4952,Sewerage Systems
+MN0021032,,,4952,Sewerage Systems
+MN0021041,,,4952,Sewerage Systems
+MN0021059,,,4952,Sewerage Systems
+MN0021083,,,4952,Sewerage Systems
+MN0021121,,,4952,Sewerage Systems
+MN0021172,,,4952,Sewerage Systems
+MN0021202,,,4952,Sewerage Systems
+MN0021211,,,4952,Sewerage Systems
+MN0021245,,,4952,Sewerage Systems
+MN0021261,,,4952,Sewerage Systems
+MN0021270,,,4952,Sewerage Systems
+MN0021296,,,4952,Sewerage Systems
+MN0021318,,,4952,Sewerage Systems
+MN0021342,,,4952,Sewerage Systems
+MN0021377,,,4952,Sewerage Systems
+MN0021407,,,4952,Sewerage Systems
+MN0021415,,,4952,Sewerage Systems
+MN0021423,,,4952,Sewerage Systems
+MN0021431,,,4952,Sewerage Systems
+MN0021440,,,4952,Sewerage Systems
+MN0021458,,,4952,Sewerage Systems
+MN0021466,,,4952,Sewerage Systems
+MN0021571,,,4952,Sewerage Systems
+MN0021601,,,4952,Sewerage Systems
+MN0021628,,,4952,Sewerage Systems
+MN0021644,,,4952,Sewerage Systems
+MN0021652,,,4952,Sewerage Systems
+MN0021679,,,4952,Sewerage Systems
+MN0021687,,,4952,Sewerage Systems
+MN0021725,,,4952,Sewerage Systems
+MN0021750,,,4952,Sewerage Systems
+MN0021776,,,4952,Sewerage Systems
+MN0021784,,,4952,Sewerage Systems
+MN0021814,,,4952,Sewerage Systems
+MN0021822,,,4952,Sewerage Systems
+MN0021831,,,4952,Sewerage Systems
+MN0021849,,,4952,Sewerage Systems
+MN0021857,,,4952,Sewerage Systems
+MN0021881,,,4952,Sewerage Systems
+MN0021890,,,4952,Sewerage Systems
+MN0021920,,,4952,Sewerage Systems
+MN0021946,,,4952,Sewerage Systems
+MN0021954,,,4952,Sewerage Systems
+MN0021971,,,4952,Sewerage Systems
+MN0021989,,,4952,Sewerage Systems
+MN0021997,,,4952,Sewerage Systems
+MN0022012,,,4952,Sewerage Systems
+MN0022055,,,4952,Sewerage Systems
+MN0022071,,,4952,Sewerage Systems
+MN0022080,,,4952,Sewerage Systems
+MN0022101,,,4952,Sewerage Systems
+MN0022110,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0022128,,,4952,Sewerage Systems
+MN0022144,,,4952,Sewerage Systems
+MN0022152,,,4952,Sewerage Systems
+MN0022179,,,4952,Sewerage Systems
+MN0022187,,,4952,Sewerage Systems
+MN0022195,,,4952,Sewerage Systems
+MN0022209,,,4952,Sewerage Systems
+MN0022217,,,4952,Sewerage Systems
+MN0022225,,,4952,Sewerage Systems
+MN0022233,,,4952,Sewerage Systems
+MN0022250,,,4952,Sewerage Systems
+MN0022284,,,2086,Bottled And Canned Soft Drinks
+MN0022322,,,4952,Sewerage Systems
+MN0022411,,,8221,Colleges And Universities
+MN0022446,,,2033,Canned Fruits And Vegetables
+MN0022462,,,4952,Sewerage Systems
+MN0022501,,,4952,Sewerage Systems
+MN0022535,,,4952,Sewerage Systems
+MN0022616,,,4952,Sewerage Systems
+MN0022624,,,4952,Sewerage Systems
+MN0022659,,,4952,Sewerage Systems
+MN0022683,,,4952,Sewerage Systems
+MN0022691,,,4952,Sewerage Systems
+MN0022713,,,4952,Sewerage Systems
+MN0022764,,,4952,Sewerage Systems
+MN0022772,,,4952,Sewerage Systems
+MN0022811,,,4952,Sewerage Systems
+MN0022829,,,4952,Sewerage Systems
+MN0022853,,,4952,Sewerage Systems
+MN0022870,,,4952,Sewerage Systems
+MN0022900,,,4952,Sewerage Systems
+MN0022926,,,4952,Sewerage Systems
+MN0022934,,,4952,Sewerage Systems
+MN0022951,,,4952,Sewerage Systems
+MN0022969,,,4952,Sewerage Systems
+MN0022977,,,4952,Sewerage Systems
+MN0022985,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0022993,,,4952,Sewerage Systems
+MN0023001,,,4952,Sewerage Systems
+MN0023019,,,4952,Sewerage Systems
+MN0023035,,,4952,Sewerage Systems
+MN0023060,,,4952,Sewerage Systems
+MN0023078,,,4952,Sewerage Systems
+MN0023094,,,4952,Sewerage Systems
+MN0023108,,,4952,Sewerage Systems
+MN0023141,,,4952,Sewerage Systems
+MN0023183,,,4952,Sewerage Systems
+MN0023248,,,4952,Sewerage Systems
+MN0023329,,,4952,Sewerage Systems
+MN0023337,,,4952,Sewerage Systems
+MN0023418,,,4952,Sewerage Systems
+MN0023442,,,4952,Sewerage Systems
+MN0023451,,,4952,Sewerage Systems
+MN0023507,,,4952,Sewerage Systems
+MN0023515,,,4952,Sewerage Systems
+MN0023540,,,4952,Sewerage Systems
+MN0023558,,,4952,Sewerage Systems
+MN0023566,,,4952,Sewerage Systems
+MN0023574,,,4952,Sewerage Systems
+MN0023582,,,4952,Sewerage Systems
+MN0023612,,,4952,Sewerage Systems
+MN0023647,,,4952,Sewerage Systems
+MN0023655,,,4952,Sewerage Systems
+MN0023680,,,4952,Sewerage Systems
+MN0023698,,,4952,Sewerage Systems
+MN0023701,,,4952,Sewerage Systems
+MN0023710,,,4952,Sewerage Systems
+MN0023736,,,4952,Sewerage Systems
+MN0023795,,,4952,Sewerage Systems
+MN0023809,,,4952,Sewerage Systems
+MN0023841,,,4952,Sewerage Systems
+MN0023876,,,4952,Sewerage Systems
+MN0023884,,,4952,Sewerage Systems
+MN0023931,,,4952,Sewerage Systems
+MN0023957,,,4952,Sewerage Systems
+MN0023965,,,4952,Sewerage Systems
+MN0023973,,,4952,Sewerage Systems
+MN0023990,,,4952,Sewerage Systems
+MN0024007,,,4952,Sewerage Systems
+MN0024023,,,4952,Sewerage Systems
+MN0024031,,,4952,Sewerage Systems
+MN0024040,,,4952,Sewerage Systems
+MN0024066,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0024082,,,4952,Sewerage Systems
+MN0024112,,,4952,Sewerage Systems
+MN0024147,,,4952,Sewerage Systems
+MN0024155,,,4952,Sewerage Systems
+MN0024210,,,4952,Sewerage Systems
+MN0024228,,,4952,Sewerage Systems
+MN0024244,,,4952,Sewerage Systems
+MN0024295,,,4952,Sewerage Systems
+MN0024350,,,4952,Sewerage Systems
+MN0024368,,,4952,Sewerage Systems
+MN0024384,,,4952,Sewerage Systems
+MN0024392,,,4952,Sewerage Systems
+MN0024422,,,4952,Sewerage Systems
+MN0024431,,,4952,Sewerage Systems
+MN0024449,,,4952,Sewerage Systems
+MN0024481,,,4952,Sewerage Systems
+MN0024490,,,4952,Sewerage Systems
+MN0024511,,,4952,Sewerage Systems
+MN0024520,,,4952,Sewerage Systems
+MN0024538,,,4952,Sewerage Systems
+MN0024554,,,4952,Sewerage Systems
+MN0024562,,,4952,Sewerage Systems
+MN0024571,,,4952,Sewerage Systems
+MN0024589,,,4952,Sewerage Systems
+MN0024597,,,4952,Sewerage Systems
+MN0024619,,,4952,Sewerage Systems
+MN0024627,,,4952,Sewerage Systems
+MN0024643,,,4952,Sewerage Systems
+MN0024651,,,4952,Sewerage Systems
+MN0024678,,,4952,Sewerage Systems
+MN0024708,,,4952,Sewerage Systems
+MN0024716,,,4952,Sewerage Systems
+MN0024741,,,4952,Sewerage Systems
+MN0024759,,,4952,Sewerage Systems
+MN0024783,,,4952,Sewerage Systems
+MN0024821,,,4952,Sewerage Systems
+MN0024856,,,4952,Sewerage Systems
+MN0024864,,,4952,Sewerage Systems
+MN0024872,,,4952,Sewerage Systems
+MN0024899,,,4952,Sewerage Systems
+MN0024911,,,4952,Sewerage Systems
+MN0024953,,,4952,Sewerage Systems
+MN0024988,,,4952,Sewerage Systems
+MN0025097,,,4952,Sewerage Systems
+MN0025101,,,4952,Sewerage Systems
+MN0025143,,,4952,Sewerage Systems
+MN0025151,,,4952,Sewerage Systems
+MN0025186,,,4952,Sewerage Systems
+MN0025194,,,4952,Sewerage Systems
+MN0025208,,,4952,Sewerage Systems
+MN0025224,,,4952,Sewerage Systems
+MN0025241,,,4952,Sewerage Systems
+MN0025259,,,4952,Sewerage Systems
+MN0025267,,,4952,Sewerage Systems
+MN0025330,,,4952,Sewerage Systems
+MN0025445,,,4952,Sewerage Systems
+MN0025470,,,1623,"Water, Sewer, And Utility Lines"
+MN0025488,,,4952,Sewerage Systems
+MN0025585,,,4952,Sewerage Systems
+MN0025666,,,4952,Sewerage Systems
+MN0025682,,,4952,Sewerage Systems
+MN0025691,,,4952,Sewerage Systems
+MN0025712,,,4952,Sewerage Systems
+MN0025721,,,9711,National Security
+MN0025801,,,4911,Electric Services
+MN0025810,,,4911,Electric Services
+MN0025836,,,4952,Sewerage Systems
+MN0025852,,,4952,Sewerage Systems
+MN0025887,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0025895,,,4952,Sewerage Systems
+MN0025909,,,4952,Sewerage Systems
+MN0025925,,,4952,Sewerage Systems
+MN0029599,,,4952,Sewerage Systems
+MN0029602,,,4952,Sewerage Systems
+MN0029629,,,4952,Sewerage Systems
+MN0029751,,,4952,Sewerage Systems
+MN0029815,,,4952,Sewerage Systems
+MN0029882,,,4952,Sewerage Systems
+MN0029904,,,4952,Sewerage Systems
+MN0029955,,,4952,Sewerage Systems
+MN0029998,,,4952,Sewerage Systems
+MN0030007,,,4952,Sewerage Systems
+MN0030066,,,4952,Sewerage Systems
+MN0030112,,,4952,Sewerage Systems
+MN0030121,,,4952,Sewerage Systems
+MN0030147,,,4952,Sewerage Systems
+MN0030163,,,4952,Sewerage Systems
+MN0030171,,,4952,Sewerage Systems
+MN0030368,,,6515,Mobile Home Site Operators
+MN0030473,,,1422,Crushed And Broken Limestone
+MN0030490,,,4952,Sewerage Systems
+MN0030635,,,5149,Groceries And Related Products
+MN0030643,,,4952,Sewerage Systems
+MN0030651,,,6515,Mobile Home Site Operators
+MN0030848,,,4952,Sewerage Systems
+MN0030864,,,3571,Electronic Computers
+MN0031127,,,6515,Mobile Home Site Operators
+MN0031178,,,2011,Meat Packing Plants
+MN0031241,,,4952,Sewerage Systems
+MN0031348,,,4952,Sewerage Systems
+MN0031879,,,1011,Iron Ores
+MN0031917,,,2083,Malt
+MN0033375,,,2048,Prepared Feeds
+MN0033723,,,9512,"Land, Mineral, Wildlife Conservation"
+MN0033740,,,9512,"Land, Mineral, Wildlife Conservation"
+MN0033758,,,9512,"Land, Mineral, Wildlife Conservation"
+MN0038661,,,6515,Mobile Home Site Operators
+MN0039713,,,4952,Sewerage Systems
+MN0040134,,,2075,Soybean Oil Mills
+MN0040631,,,4952,Sewerage Systems
+MN0040649,,,4952,Sewerage Systems
+MN0040665,,,2063,Beet Sugar
+MN0040738,,,4952,Sewerage Systems
+MN0040754,,,4952,Sewerage Systems
+MN0040835,,,4952,Sewerage Systems
+MN0040878,,,4952,Sewerage Systems
+MN0041076,,,4952,Sewerage Systems
+MN0041092,,,4952,Sewerage Systems
+MN0041114,,,4952,Sewerage Systems
+MN0041122,,,4952,Sewerage Systems
+MN0041220,,,4952,Sewerage Systems
+MN0041271,,,4939,Combination Utilities
+MN0041394,,,1411,Dimension Stone
+MN0041432,,,6515,Mobile Home Site Operators
+MN0041521,,,2869,Industrial Organic Chemicals
+MN0041556,,,1311,Crude Petroleum And Natural Gas
+MN0041769,,,4941,Water Supply
+MN0042196,,,6515,Mobile Home Site Operators
+MN0042251,,,6515,Mobile Home Site Operators
+MN0042323,,,4941,Water Supply
+MN0042331,,,4952,Sewerage Systems
+MN0042536,,,1011,Iron Ores
+MN0042579,,,1011,Iron Ores
+MN0042641,,,3812,Search And Navigation Equipment
+MN0043010,,,4941,Water Supply
+MN0043036,,,4941,Water Supply
+MN0043664,,,4941,Water Supply
+MN0043958,,,4941,Water Supply
+MN0044326,,,2022,"Cheese, Natural And Processed"
+MN0044377,,,4941,Water Supply
+MN0044415,,,4941,Water Supply
+MN0044458,,,9621,"Regulation, Administration Of Transportation"
+MN0044628,,,2022,"Cheese, Natural And Processed"
+MN0044946,,,1011,Iron Ores
+MN0045446,,,4952,Sewerage Systems
+MN0045489,,,1799,Special Trade Contractors
+MN0045527,,,4941,Water Supply
+MN0045691,,,4911,Electric Services
+MN0045721,,,4952,Sewerage Systems
+MN0045845,,,4952,Sewerage Systems
+MN0045896,,,4612,Crude Petroleum Pipelines
+MN0046035,,,8221,Colleges And Universities
+MN0046043,,,2493,Reconstituted Wood Products
+MN0046388,,,4952,Sewerage Systems
+MN0046655,,,4952,Sewerage Systems
+MN0046671,,,4952,Sewerage Systems
+MN0046744,,,9999,Nonclassifiable Establishments
+MN0046752,,,4952,Sewerage Systems
+MN0046868,,,4952,Sewerage Systems
+MN0046957,,,3081,Unsupported Plastics Film & Sheet
+MN0046981,,,1011,Iron Ores
+MN0047066,,,4952,Sewerage Systems
+MN0047228,,,2022,"Cheese, Natural And Processed"
+MN0047261,,,2015,Poultry Slaughtering And Processing
+MN0047287,,,4952,Sewerage Systems
+MN0047325,,,4952,Sewerage Systems
+MN0047490,,,4952,Sewerage Systems
+MN0047503,,,4952,Sewerage Systems
+MN0048810,,,2952,Asphalt Felts And Coatings
+MN0048844,,,9621,"Regulation, Administration Of Transportation"
+MN0048909,,,4952,Sewerage Systems
+MN0048968,,,2099,Food Preparations
+MN0048984,,,2631,Paperboard Mills
+MN0048992,,,4952,Sewerage Systems
+MN0049018,,,4011,"Railroads, Line-Haul Operating"
+MN0049069,,,4952,Sewerage Systems
+MN0049077,,,4911,Electric Services
+MN0049158,,,4952,Sewerage Systems
+MN0049204,,,4952,Sewerage Systems
+MN0049239,,,4952,Sewerage Systems
+MN0049263,,,8211,Elementary And Secondary Schools
+MN0049328,,,4952,Sewerage Systems
+MN0049441,,,2875,"Fertilizers, Mixing Only"
+MN0049514,,,4952,Sewerage Systems
+MN0049531,,,4952,Sewerage Systems
+MN0049760,,,2869,Industrial Organic Chemicals
+MN0049786,,,4952,Sewerage Systems
+MN0049794,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0049891,,,7033,Trailer Parks And Campsites
+MN0049905,,,0723,Crop Preparation Services For Market
+MN0050130,,,4952,Sewerage Systems
+MN0050211,,,4952,Sewerage Systems
+MN0050288,,,4952,Sewerage Systems
+MN0050318,,,4225,General Warehousing And Storage
+MN0050491,,,2032,Canned Specialties
+MN0050504,,,1011,Iron Ores
+MN0050628,,,4952,Sewerage Systems
+MN0050636,,,6515,Mobile Home Site Operators
+MN0050725,,,4952,Sewerage Systems
+MN0050911,,,2011,Meat Packing Plants
+MN0050954,,,4952,Sewerage Systems
+MN0050997,,,4952,Sewerage Systems
+MN0051004,,,4952,Sewerage Systems
+MN0051098,,,4952,Sewerage Systems
+MN0051101,,,4952,Sewerage Systems
+MN0051209,,,4952,Sewerage Systems
+MN0051250,,,4952,Sewerage Systems
+MN0051284,,,4952,Sewerage Systems
+MN0051292,,,4952,Sewerage Systems
+MN0051381,,,4952,Sewerage Systems
+MN0051390,,,4952,Sewerage Systems
+MN0051501,,,4952,Sewerage Systems
+MN0051535,,,4952,Sewerage Systems
+MN0051616,,,4952,Sewerage Systems
+MN0051713,,,4952,Sewerage Systems
+MN0051764,,,4952,Sewerage Systems
+MN0051802,,,8221,Colleges And Universities
+MN0051811,,,3399,Primary Metal Products
+MN0051926,,,4952,Sewerage Systems
+MN0051934,,,4952,Sewerage Systems
+MN0051993,,,4952,Sewerage Systems
+MN0052116,,,1011,Iron Ores
+MN0052141,,,9711,National Security
+MN0052272,,,4952,Sewerage Systems
+MN0052329,,,4911,Electric Services
+MN0052345,,,4952,Sewerage Systems
+MN0052451,,,4952,Sewerage Systems
+MN0052493,,,1011,Iron Ores
+MN0052540,221210,Natural Gas Distribution,4922,Natural Gas Transmission
+MN0052612,,,5093,Scrap And Waste Materials
+MN0052663,,,4952,Sewerage Systems
+MN0052728,,,5141,"Groceries, General Line"
+MN0052752,,,4952,Sewerage Systems
+MN0052906,,,4952,Sewerage Systems
+MN0052990,,,4952,Sewerage Systems
+MN0053082,,,1446,Industrial Sand
+MN0053210,,,4952,Sewerage Systems
+MN0053252,,,6514,"Dwelling Operators, Except Apartments"
+MN0053279,,,4952,Sewerage Systems
+MN0053309,,,4952,Sewerage Systems
+MN0053341,,,4952,Sewerage Systems
+MN0053350,,,3087,Custom Compound Purchased Resins
+MN0053384,,,4011,"Railroads, Line-Haul Operating"
+MN0053392,,,4952,Sewerage Systems
+MN0053406,,,4952,Sewerage Systems
+MN0053457,,,4952,Sewerage Systems
+MN0053562,,,4952,Sewerage Systems
+MN0053724,,,4952,Sewerage Systems
+MN0053830,,,3325,Steel Foundries
+MN0053988,,,4925,Gas Production And/Or Distribution
+MN0054089,,,1011,Iron Ores
+MN0054127,,,4952,Sewerage Systems
+MN0054194,,,4512,"Air Transportation, Scheduled"
+MN0054305,,,4952,Sewerage Systems
+MN0054372,,,6515,Mobile Home Site Operators
+MN0054399,,,4952,Sewerage Systems
+MN0054445,,,2048,Prepared Feeds
+MN0054518,,,6515,Mobile Home Site Operators
+MN0054577,,,2711,Newspapers
+MN0054593,,,4952,Sewerage Systems
+MN0054747,,,3823,Process Control Instruments
+MN0054771,,,3621,Motors And Generators
+MN0054801,,,4952,Sewerage Systems
+MN0055026,,,2431,Millwork
+MN0055115,,,1499,Miscellaneous Nonmetallic Minerals
+MN0055301,,,1011,Iron Ores
+MN0055361,,,4952,Sewerage Systems
+MN0055387,,,4011,"Railroads, Line-Haul Operating"
+MN0055506,,,3577,Computer Peripheral Equipment
+MN0055662,,,1499,Miscellaneous Nonmetallic Minerals
+MN0055719,,,4961,Steam And Air-Conditioning Supply
+MN0055808,,,4952,Sewerage Systems
+MN0055832,,,4952,Sewerage Systems
+MN0055948,,,1011,Iron Ores
+MN0055964,,,1011,Iron Ores
+MN0055981,,,4952,Sewerage Systems
+MN0056022,,,9999,Nonclassifiable Establishments
+MN0056090,,,0254,Poultry Hatcheries
+MN0056103,,,4952,Sewerage Systems
+MN0056219,,,4952,Sewerage Systems
+MN0056324,,,4612,Crude Petroleum Pipelines
+MN0056472,,,4922,Natural Gas Transmission
+MN0056481,,,4952,Sewerage Systems
+MN0056588,,,4952,Sewerage Systems
+MN0056618,,,4952,Sewerage Systems
+MN0056685,,,7992,Public Golf Courses
+MN0056715,,,4952,Sewerage Systems
+MN0056723,,,3674,Semiconductors And Related Devices
+MN0056863,,,4952,Sewerage Systems
+MN0056880,,,4952,Sewerage Systems
+MN0056910,,,4952,Sewerage Systems
+MN0056979,,,6512,Nonresidential Building Operators
+MN0056995,,,4961,Steam And Air-Conditioning Supply
+MN0057002,,,4952,Sewerage Systems
+MN0057037,,,5159,Farm-Product Raw Materials
+MN0057207,,,1011,Iron Ores
+MN0057282,,,4952,Sewerage Systems
+MN0057428,,,1499,Miscellaneous Nonmetallic Minerals
+MN0057436,,,6552,Subdividers And Developers
+MN0057509,,,4961,Steam And Air-Conditioning Supply
+MN0057525,,,4953,Refuse Systems
+MN0057533,,,3295,"Minerals, Ground Or Treated"
+MN0057771,,,5171,Petroleum Bulk Stations & Terminals
+MN0057789,,,5541,Gasoline Service Stations
+MN0058033,,,2879,Agricultural Chemicals
+MN0058122,,,4952,Sewerage Systems
+MN0058611,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0058637,,,5541,Gasoline Service Stations
+MN0058882,,,8221,Colleges And Universities
+MN0059013,,,3569,General Industrial Machinery
+MN0059161,,,5541,Gasoline Service Stations
+MN0059277,,,3321,Gray And Ductile Iron Foundries
+MN0059331,,,1455,Kaolin And Ball Clay
+MN0059404,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0059412,,,4952,Sewerage Systems
+MN0059439,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0059447,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0059633,,,2873,Nitrogenous Fertilizers
+MN0059765,,,2038,Frozen Specialties
+MN0059803,,,2024,Ice Cream And Frozen Desserts
+MN0059811,,,4613,Refined Petroleum Pipelines
+MN0059820,,,4613,Refined Petroleum Pipelines
+MN0059838,,,4613,Refined Petroleum Pipelines
+MN0059871,,,4952,Sewerage Systems
+MN0059960,,,0182,Food Crops Grown Under Cover
+MN0060101,,,2086,Bottled And Canned Soft Drinks
+MN0060151,,,7033,Trailer Parks And Campsites
+MN0060216,,,2022,"Cheese, Natural And Processed"
+MN0060232,,,2869,Industrial Organic Chemicals
+MN0060372,,,5331,Variety Stores
+MN0060691,,,4952,Sewerage Systems
+MN0060747,,,2836,Biological Products Except Diagnostic
+MN0060755,,,4923,Gas Transmission And Distribution
+MN0060798,,,5144,Poultry And Poultry Products
+MN0060895,,,8661,Religious Organizations
+MN0060976,,,5541,Gasoline Service Stations
+MN0061077,,,4941,Water Supply
+MN0061221,,,0921,Fish Hatcheries And Preserves
+MN0061310,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0061336,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0061433,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0061514,,,2075,Soybean Oil Mills
+MN0061549,,,5032,"Brick, Stone, & Related Materials"
+MN0061638,,,1442,Construction Sand And Gravel
+MN0061646,,,3251,Brick And Structural Clay Tile
+MN0062031,,,6513,Apartment Building Operators
+MN0062154,,,1455,Kaolin And Ball Clay
+MN0062201,,,5153,Grain And Field Beans
+MN0062227,,,1422,Crushed And Broken Limestone
+MN0062375,,,1499,Miscellaneous Nonmetallic Minerals
+MN0062481,,,3281,Cut Stone And Stone Products
+MN0062537,,,7991,Physical Fitness Facilities
+MN0062596,,,0213,Hogs
+MN0062600,,,0213,Hogs
+MN0062715,,,1499,Miscellaneous Nonmetallic Minerals
+MN0062723,,,0182,Food Crops Grown Under Cover
+MN0062791,,,1422,Crushed And Broken Limestone
+MN0062804,,,1422,Crushed And Broken Limestone
+MN0062821,,,4931,Electric And Other Services Combined
+MN0062898,,,2873,Nitrogenous Fertilizers
+MN0063002,,,2869,Industrial Organic Chemicals
+MN0063029,,,2086,Bottled And Canned Soft Drinks
+MN0063045,,,1442,Construction Sand And Gravel
+MN0063061,,,1499,Miscellaneous Nonmetallic Minerals
+MN0063070,,,7542,Carwashes
+MN0063118,,,2869,Industrial Organic Chemicals
+MN0063126,,,4924,Natural Gas Distribution
+MN0063151,,,2869,Industrial Organic Chemicals
+MN0063266,,,3674,Semiconductors And Related Devices
+MN0063304,,,4613,Refined Petroleum Pipelines
+MN0063380,,,5093,Scrap And Waste Materials
+MN0063436,,,8221,Colleges And Universities
+MN0063452,,,7999,Amusement And Recreation
+MN0063461,,,4952,Sewerage Systems
+MN0063487,,,4952,Sewerage Systems
+MN0063541,,,3841,Surgical And Medical Instruments
+MN0063649,,,4924,Natural Gas Distribution
+MN0063754,,,4613,Refined Petroleum Pipelines
+MN0063762,,,4952,Sewerage Systems
+MN0063908,,,4952,Sewerage Systems
+MN0063932,,,4952,Sewerage Systems
+MN0063941,,,4952,Sewerage Systems
+MN0063967,,,4924,Natural Gas Distribution
+MN0064017,,,2869,Industrial Organic Chemicals
+MN0064033,,,2869,Industrial Organic Chemicals
+MN0064041,,,0241,Dairy Farms
+MN0064068,,,4922,Natural Gas Transmission
+MN0064165,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0064173,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0064190,,,4952,Sewerage Systems
+MN0064351,,,4941,Water Supply
+MN0064408,,,3523,Farm Machinery And Equipment
+MN0064475,,,1422,Crushed And Broken Limestone
+MN0064521,,,5191,Farm Supplies
+MN0064564,,,4952,Sewerage Systems
+MN0064637,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0064661,,,3674,Semiconductors And Related Devices
+MN0064688,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0064696,,,4613,Refined Petroleum Pipelines
+MN0064700,,,4612,Crude Petroleum Pipelines
+MN0064785,,,4952,Sewerage Systems
+MN0064831,,,4952,Sewerage Systems
+MN0064882,,,4952,Sewerage Systems
+MN0065200,,,4952,Sewerage Systems
+MN0065242,,,1422,Crushed And Broken Limestone
+MN0065251,,,1422,Crushed And Broken Limestone
+MN0065293,,,4952,Sewerage Systems
+MN0065404,,,4581,"Airports, Flying Fields, & Services"
+MN0065439,,,0213,Hogs
+MN0065501,,,3851,Ophthalmic Goods - Manufacturing
+MN0065668,,,4952,Sewerage Systems
+MN0065692,,,2869,Industrial Organic Chemicals
+MN0065722,,,4952,Sewerage Systems
+MN0065846,,,2063,Beet Sugar
+MN0066028,,,4952,Sewerage Systems
+MN0066036,,,2023,"Dry, Condensed, Evaporated Products"
+MN0066052,,,1499,Miscellaneous Nonmetallic Minerals
+MN0066079,,,4952,Sewerage Systems
+MN0066109,,,4952,Sewerage Systems
+MN0066168,,,3499,Fabricated Metal Products
+MN0066257,,,4952,Sewerage Systems
+MN0066371,,,4952,Sewerage Systems
+MN0066460,,,4952,Sewerage Systems
+MN0066508,,,2844,Toilet Preparations
+MN0066524,,,2844,Toilet Preparations
+MN0066559,,,4961,Steam And Air-Conditioning Supply
+MN0066605,,,4952,Sewerage Systems
+MN0066672,,,0213,Hogs
+MN0066699,,,3469,Metal Stampings
+MN0066800,,,2869,Industrial Organic Chemicals
+MN0066940,,,4952,Sewerage Systems
+MN0066966,,,4952,Sewerage Systems
+MN0067008,,,4952,Sewerage Systems
+MN0067016,,,2841,Soap And Other Detergents
+MN0067032,,,4952,Sewerage Systems
+MN0067172,,,2869,Industrial Organic Chemicals
+MN0067211,,,2869,Industrial Organic Chemicals
+MN0067237,,,1411,Dimension Stone
+MN0067326,,,0241,Dairy Farms
+MN0067334,,,4952,Sewerage Systems
+MN0067377,,,4941,Water Supply
+MN0067385,,,2869,Industrial Organic Chemicals
+MN0067407,,,9711,National Security
+MN0067415,,,4953,Refuse Systems
+MN0067423,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0067440,,,4952,Sewerage Systems
+MN0067458,,,4952,Sewerage Systems
+MN0067482,,,2011,Meat Packing Plants
+MN0067555,,,4952,Sewerage Systems
+MN0067661,,,4941,Water Supply
+MN0067687,,,3312,Blast Furnaces And Steel Mills
+MN0067733,,,4952,Sewerage Systems
+MN0067792,,,2951,Asphalt Paving Mixtures And Blocks
+MN0067806,,,1423,Crushed And Broken Granite
+MN0067938,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0067962,,,1011,Iron Ores
+MN0068063,,,2869,Industrial Organic Chemicals
+MN0068098,,,4911,Electric Services
+MN0068101,,,4941,Water Supply
+MN0068161,,,2869,Industrial Organic Chemicals
+MN0068195,,,4952,Sewerage Systems
+MN0068209,,,4952,Sewerage Systems
+MN0068241,,,1011,Iron Ores
+MN0068284,,,3272,Concrete Products
+MN0068322,,,4952,Sewerage Systems
+MN0068331,,,2869,Industrial Organic Chemicals
+MN0068438,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0068446,,,4952,Sewerage Systems
+MN0068454,,,5153,Grain And Field Beans
+MN0068519,,,4952,Sewerage Systems
+MN0068632,,,0241,Dairy Farms
+MN0068683,,,0211,Beef Cattle Feedlots
+MN0068713,,,4952,Sewerage Systems
+MN0068730,,,1629,Heavy Construction
+MN0068748,,,2026,Fluid Milk
+MN0068756,,,4952,Sewerage Systems
+MN0068764,,,1423,Crushed And Broken Granite
+MN0068781,,,3559,Special Industry Machinery
+MN0068802,,,4952,Sewerage Systems
+MN0068870,,,4941,Water Supply
+MN0068969,,,2079,Edible Fats And Oils
+MN0068985,,,2869,Industrial Organic Chemicals
+MN0069035,,,5153,Grain And Field Beans
+MN0069051,,,3462,Iron And Steel Forgings
+MN0069078,,,1011,Iron Ores
+MN0069094,,,1629,Heavy Construction
+MN0069108,,,2077,Animal And Marine Fats And Oils
+MN0069141,,,1541,Industrial Buildings And Warehouses
+MN0069175,,,4612,Crude Petroleum Pipelines
+MN0069230,,,0241,Dairy Farms
+MN0069256,,,7389,Business Services
+MN0069388,,,4952,Sewerage Systems
+MN0069400,,,1011,Iron Ores
+MN0069418,,,5191,Farm Supplies
+MN0069442,,,4952,Sewerage Systems
+MN0069469,,,0211,Beef Cattle Feedlots
+MN0069515,,,1442,Construction Sand And Gravel
+MN0069523,,,1442,Construction Sand And Gravel
+MN0069531,,,1442,Construction Sand And Gravel
+MN0069612,,,5052,Coal And Other Minerals And Ores
+MN0069639,,,4952,Sewerage Systems
+MN0069663,,,4931,Electric And Other Services Combined
+MN0069680,,,1459,Clay And Related Minerals
+MN0069710,,,0921,Fish Hatcheries And Preserves
+MN0069752,221310,Water Supply and Irrigation Systems,4941,Water Supply
+MN0069809,,,0211,Beef Cattle Feedlots
+MN0069817,,,4952,Sewerage Systems
+MN0069841,,,0241,Dairy Farms
+MN0069850,,,8211,Elementary And Secondary Schools
+MN0069876,,,3084,Plastics Pipe
+MN0069957,,,4941,Water Supply
+MN0069981,,,0139,"Field Crops, Except Cash Grains"
+MN0070092,,,4952,Sewerage Systems
+MN0070131,,,4952,Sewerage Systems
+MN0070173,,,4941,Water Supply
+MN0070271,,,4952,Sewerage Systems
+MN0070386,,,2063,Beet Sugar
+MN0070394,,,0211,Beef Cattle Feedlots
+MN0070564,,,1442,Construction Sand And Gravel
+MN0070581,,,1446,Industrial Sand
+MN0070611,,,1629,Heavy Construction
+MN0070629,,,4952,Sewerage Systems
+MN0070785,,,0211,Beef Cattle Feedlots
+MN0070831,,,0241,Dairy Farms
+MN0070866,,,0211,Beef Cattle Feedlots
+MN0070912,,,0241,Dairy Farms
+MN0070947,,,4952,Sewerage Systems
+MN0070971,,,0241,Dairy Farms
+MN0070980,,,0241,Dairy Farms
+MN0071013,,,1021,Copper Ores
+MN0071021,,,0241,Dairy Farms
+MN0071072,,,0211,Beef Cattle Feedlots
+MN0071153,,,0213,Hogs
+MN0071188,,,7941,"Sports Clubs, Managers, & Promoters"
+MN0071331,,,0241,Dairy Farms
+MN0071366,,,4612,Crude Petroleum Pipelines
+MN0071391,,,1629,Heavy Construction
+MN0071421,,,4952,Sewerage Systems
+MN0071536,,,0241,Dairy Farms
+MN0071633,,,4952,Sewerage Systems
+MN0071714,,,0213,Hogs
+MN0071731,,,4941,Water Supply
+MN0071749,,,4941,Water Supply
+MN0071773,,,0241,Dairy Farms
+MN0071820,,,0213,Hogs
+MN0071838,,,0213,Hogs
+MN0071871,,,0241,Dairy Farms
+MN0071919,,,2048,Prepared Feeds
+MN0071978,,,4952,Sewerage Systems
+MN0072036,,,0213,Hogs
+MN0072052,,,1629,Heavy Construction
+MN0075001,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MN0110027,,,4952,Sewerage Systems
+MN0110035,,,9512,"Land, Mineral, Wildlife Conservation"
+MN0110914,,,8734,Testing Laboratories
+MNG250002,,,3471,Plating And Polishing
+MNG250004,,,4911,Electric Services
+MNG250005,,,2063,Beet Sugar
+MNG250009,,,2076,Vegetable Oil Mills
+MNG250010,,,3321,Gray And Ductile Iron Foundries
+MNG250016,,,4911,Electric Services
+MNG250027,,,2097,Manufactured Ice for sale
+MNG250043,,,4911,Electric Services
+MNG250047,,,2023,"Dry, Condensed, Evaporated Products"
+MNG250048,,,2295,"Coated Fabrics, Not Rubberized"
+MNG250058,,,4911,Electric Services
+MNG250061,,,3471,Plating And Polishing
+MNG250065,,,3363,Aluminum Die-Castings
+MNG250072,,,7941,"Sports Clubs, Managers, & Promoters"
+MNG250082,,,3061,Mechanical Rubber Goods
+MNG250084,,,4941,Water Supply
+MNG250089,,,4911,Electric Services
+MNG250093,,,3674,Semiconductors And Related Devices
+MNG250099,,,2023,"Dry, Condensed, Evaporated Products"
+MNG250102,,,3296,Mineral Wool
+MNG250103,,,6099,Functions Related To Deposit Banking
+MNG250104,,,4311,U.S. Postal Service
+MNG250107,,,2671,"Paper Coated & Laminated, Packaging"
+MNG250108,,,3613,Switchgear And Switchboard Apparatus
+MNG250109,,,2022,"Cheese, Natural And Processed"
+MNG250110,,,3433,"Heating Equipment, Except Electric"
+MNG250141,,,2085,Distilled And Blended Liquors
+MNG250142,,,2092,Fresh Or Frozen Prepared Fish
+MNG250143,,,2836,Biological Products Except Diagnostic
+MNG255005,,,2046,Wet Corn Milling
+MNG255006,311999,All Other Miscellaneous Food Manufacturing,2022,"Cheese, Natural And Processed"
+MNG255021,221111,Hydroelectric Power Generation,4911,Electric Services
+MNG255025,334418,Printed Circuit Assembly [Electronic Assembly] Manufacturing,3679,Electronic Components
+MNG255026,311613,Rendering and Meat Byproduct Processing,2013,Sausages And Other Prepared Meats
+MNG255029,333618,Other Engine Equipment Manufacturing,3519,Internal Combustion Engines
+MNG255038,322211,Corrugated and Solid Fiber Box Manufacturing,2653,Corrugated And Solid Fiber Boxes
+MNG255043,335312,Motor and Generator Manufacturing,3621,Motors And Generators
+MNG255045,323110,Commercial Lithographic Printing [2007],2752,"Commercial Printing, Lithographic"
+MNG255053,221112,Fossil Fuel Electric Power Generation,4911,Electric Services
+MNG255061,531110,Lessors of Residential Buildings and Dwellings,6513,Apartment Building Operators
+MNG255064,326130,"Laminated Plastics Plate, Sheet [except Packaging], and Shape Manufacturing",3083,Laminated Plastics Plate & Sheet
+MNG255065,,,3547,Rolling Mill Machinery
+MNG255066,311330,Confectionery Manufacturing from Purchased Chocolate [2007],2064,Candy & Other Confectionery Products
+MNG255067,,,2026,Fluid Milk
+MNG255072,326113,Unlaminated Plastics Film and Sheet [except Packaging] Manufacturing,3081,Unsupported Plastics Film & Sheet
+MNG255074,531120,Lessors of Nonresidential Buildings [except Miniwarehouses],6512,Nonresidential Building Operators
+MNG255077,,,2015,Poultry Slaughtering And Processing
+MNG255078,,,3231,Products Of Purchased Glass
+MNG255084,332911,Industrial Valve Manufacturing,3491,Industrial Valves
+MNG255087,,,3489,Ordnance And Accessories
+MNG255088,,,3822,Environmental Controls
+MNG255092,,,2022,"Cheese, Natural And Processed"
+MNG255099,,,2295,"Coated Fabrics, Not Rubberized"
+MNG255101,,,3829,Measuring & Controlling Devices
+MNG255120,,,3699,Electrical Equipment & Supplies
+MNG255121,,,3365,Aluminum Foundries
+MNG440002,,,0213,Hogs
+MNG440006,,,0213,Hogs
+MNG440007,,,0213,Hogs
+MNG440008,,,0213,Hogs
+MNG440009,,,0241,Dairy Farms
+MNG440010,,,0213,Hogs
+MNG440011,,,0213,Hogs
+MNG440012,,,0213,Hogs
+MNG440013,,,0213,Hogs
+MNG440015,,,0213,Hogs
+MNG440017,,,0211,Beef Cattle Feedlots
+MNG440018,,,0213,Hogs
+MNG440020,,,0213,Hogs
+MNG440022,,,0213,Hogs
+MNG440023,,,0213,Hogs
+MNG440024,,,0213,Hogs
+MNG440025,,,0213,Hogs
+MNG440026,,,0213,Hogs
+MNG440027,,,0213,Hogs
+MNG440028,,,0213,Hogs
+MNG440030,,,0213,Hogs
+MNG440032,,,0213,Hogs
+MNG440033,,,0213,Hogs
+MNG440034,,,0213,Hogs
+MNG440045,,,0213,Hogs
+MNG440050,,,0213,Hogs
+MNG440053,,,0211,Beef Cattle Feedlots
+MNG440055,,,0213,Hogs
+MNG440056,,,0213,Hogs
+MNG440058,,,0213,Hogs
+MNG440060,,,0213,Hogs
+MNG440061,,,0213,Hogs
+MNG440062,,,0213,Hogs
+MNG440063,,,0213,Hogs
+MNG440065,,,0213,Hogs
+MNG440066,,,0213,Hogs
+MNG440067,,,0213,Hogs
+MNG440068,,,0213,Hogs
+MNG440069,,,0213,Hogs
+MNG440070,,,0213,Hogs
+MNG440072,,,0213,Hogs
+MNG440076,,,0213,Hogs
+MNG440079,,,0213,Hogs
+MNG440080,,,0213,Hogs
+MNG440086,,,0213,Hogs
+MNG440088,,,0213,Hogs
+MNG440090,,,0213,Hogs
+MNG440091,,,0213,Hogs
+MNG440092,,,0213,Hogs
+MNG440093,,,0213,Hogs
+MNG440094,,,0213,Hogs
+MNG440095,,,0213,Hogs
+MNG440116,,,0253,Turkeys And Turkey Eggs
+MNG440125,,,0213,Hogs
+MNG440126,,,0213,Hogs
+MNG440127,,,0213,Hogs
+MNG440130,,,0213,Hogs
+MNG440135,,,0213,Hogs
+MNG440136,,,0213,Hogs
+MNG440137,,,0213,Hogs
+MNG440138,,,0213,Hogs
+MNG440139,,,0213,Hogs
+MNG440140,,,0213,Hogs
+MNG440141,,,0213,Hogs
+MNG440142,,,0213,Hogs
+MNG440144,,,0213,Hogs
+MNG440145,,,0213,Hogs
+MNG440149,,,0213,Hogs
+MNG440151,,,0213,Hogs
+MNG440152,,,0213,Hogs
+MNG440156,,,0213,Hogs
+MNG440158,,,0213,Hogs
+MNG440161,,,0213,Hogs
+MNG440162,,,0213,Hogs
+MNG440163,,,0213,Hogs
+MNG440164,,,0213,Hogs
+MNG440167,,,0213,Hogs
+MNG440168,,,0213,Hogs
+MNG440169,,,0213,Hogs
+MNG440171,,,0213,Hogs
+MNG440172,,,0213,Hogs
+MNG440173,,,0213,Hogs
+MNG440176,,,0253,Turkeys And Turkey Eggs
+MNG440177,,,0253,Turkeys And Turkey Eggs
+MNG440178,,,0253,Turkeys And Turkey Eggs
+MNG440179,,,0253,Turkeys And Turkey Eggs
+MNG440180,,,0213,Hogs
+MNG440183,,,0213,Hogs
+MNG440185,,,0213,Hogs
+MNG440186,,,0213,Hogs
+MNG440191,,,0253,Turkeys And Turkey Eggs
+MNG440192,,,2015,Poultry Slaughtering And Processing
+MNG440193,,,0213,Hogs
+MNG440194,,,0213,Hogs
+MNG440195,,,0213,Hogs
+MNG440196,,,0213,Hogs
+MNG440197,,,0213,Hogs
+MNG440198,,,0213,Hogs
+MNG440199,,,0213,Hogs
+MNG440200,,,0213,Hogs
+MNG440202,,,0213,Hogs
+MNG440203,,,0213,Hogs
+MNG440205,,,0213,Hogs
+MNG440206,,,0213,Hogs
+MNG440207,,,0213,Hogs
+MNG440213,,,0213,Hogs
+MNG440214,,,0213,Hogs
+MNG440215,,,0213,Hogs
+MNG440216,,,0213,Hogs
+MNG440217,,,0213,Hogs
+MNG440220,,,0211,Beef Cattle Feedlots
+MNG440223,,,0213,Hogs
+MNG440228,,,0213,Hogs
+MNG440231,,,0253,Turkeys And Turkey Eggs
+MNG440232,,,0253,Turkeys And Turkey Eggs
+MNG440233,,,0253,Turkeys And Turkey Eggs
+MNG440234,,,0253,Turkeys And Turkey Eggs
+MNG440244,,,0213,Hogs
+MNG440246,,,0213,Hogs
+MNG440247,,,0213,Hogs
+MNG440248,,,0241,Dairy Farms
+MNG440249,,,0213,Hogs
+MNG440251,,,0213,Hogs
+MNG440253,,,0213,Hogs
+MNG440255,,,0213,Hogs
+MNG440259,,,0213,Hogs
+MNG440260,,,0213,Hogs
+MNG440261,,,0213,Hogs
+MNG440262,,,0213,Hogs
+MNG440263,,,0213,Hogs
+MNG440270,,,0213,Hogs
+MNG440271,,,0213,Hogs
+MNG440272,,,0213,Hogs
+MNG440274,,,0213,Hogs
+MNG440275,,,0213,Hogs
+MNG440276,,,0211,Beef Cattle Feedlots
+MNG440278,,,0213,Hogs
+MNG440279,,,0213,Hogs
+MNG440280,,,0213,Hogs
+MNG440282,,,0213,Hogs
+MNG440283,,,0213,Hogs
+MNG440286,,,0213,Hogs
+MNG440288,,,0213,Hogs
+MNG440289,,,0213,Hogs
+MNG440290,,,0213,Hogs
+MNG440291,,,0213,Hogs
+MNG440294,,,0213,Hogs
+MNG440299,,,0213,Hogs
+MNG440300,,,0213,Hogs
+MNG440301,,,0213,Hogs
+MNG440302,,,0213,Hogs
+MNG440303,,,0213,Hogs
+MNG440305,,,0213,Hogs
+MNG440306,,,0213,Hogs
+MNG440307,,,0213,Hogs
+MNG440308,,,0213,Hogs
+MNG440309,,,0213,Hogs
+MNG440311,,,0241,Dairy Farms
+MNG440312,,,0213,Hogs
+MNG440313,,,0213,Hogs
+MNG440314,,,0211,Beef Cattle Feedlots
+MNG440315,,,0213,Hogs
+MNG440316,,,0213,Hogs
+MNG440320,,,0213,Hogs
+MNG440321,,,0213,Hogs
+MNG440322,,,0213,Hogs
+MNG440323,,,0213,Hogs
+MNG440324,,,0241,Dairy Farms
+MNG440325,,,7948,"Racing, Including Track Operation"
+MNG440327,,,0213,Hogs
+MNG440329,,,0213,Hogs
+MNG440331,,,0213,Hogs
+MNG440332,,,0213,Hogs
+MNG440333,,,0241,Dairy Farms
+MNG440334,,,0252,Chicken Eggs
+MNG440335,,,0241,Dairy Farms
+MNG440336,,,0211,Beef Cattle Feedlots
+MNG440337,,,0213,Hogs
+MNG440338,,,0213,Hogs
+MNG440339,,,0253,Turkeys And Turkey Eggs
+MNG440340,,,0253,Turkeys And Turkey Eggs
+MNG440341,,,0211,Beef Cattle Feedlots
+MNG440344,,,0213,Hogs
+MNG440348,,,0213,Hogs
+MNG440349,,,0213,Hogs
+MNG440350,,,0213,Hogs
+MNG440351,,,0211,Beef Cattle Feedlots
+MNG440355,,,0213,Hogs
+MNG440356,,,0241,Dairy Farms
+MNG440357,,,0213,Hogs
+MNG440360,,,0213,Hogs
+MNG440362,,,0213,Hogs
+MNG440364,,,0213,Hogs
+MNG440365,,,0213,Hogs
+MNG440366,,,0213,Hogs
+MNG440369,,,0213,Hogs
+MNG440371,,,0213,Hogs
+MNG440374,,,0213,Hogs
+MNG440380,,,0213,Hogs
+MNG440382,,,0213,Hogs
+MNG440383,,,0253,Turkeys And Turkey Eggs
+MNG440384,,,0213,Hogs
+MNG440385,,,0213,Hogs
+MNG440386,,,0213,Hogs
+MNG440389,,,0213,Hogs
+MNG440390,,,0213,Hogs
+MNG440393,,,0213,Hogs
+MNG440394,,,0213,Hogs
+MNG440395,,,0213,Hogs
+MNG440396,,,0213,Hogs
+MNG440398,,,0213,Hogs
+MNG440399,,,0213,Hogs
+MNG440400,,,0213,Hogs
+MNG440401,,,0213,Hogs
+MNG440402,,,0213,Hogs
+MNG440406,,,0213,Hogs
+MNG440408,,,0213,Hogs
+MNG440411,,,0213,Hogs
+MNG440414,,,0241,Dairy Farms
+MNG440415,,,0241,Dairy Farms
+MNG440417,,,0213,Hogs
+MNG440418,,,0213,Hogs
+MNG440420,,,0213,Hogs
+MNG440425,,,0213,Hogs
+MNG440428,,,0213,Hogs
+MNG440429,,,0213,Hogs
+MNG440430,,,0213,Hogs
+MNG440431,,,0213,Hogs
+MNG440434,,,0211,Beef Cattle Feedlots
+MNG440435,,,0213,Hogs
+MNG440438,,,0213,Hogs
+MNG440439,,,0213,Hogs
+MNG440440,,,0213,Hogs
+MNG440442,,,0213,Hogs
+MNG440443,,,0213,Hogs
+MNG440444,,,0213,Hogs
+MNG440446,,,0213,Hogs
+MNG440447,,,0252,Chicken Eggs
+MNG440450,,,0213,Hogs
+MNG440451,,,0213,Hogs
+MNG440454,,,0213,Hogs
+MNG440455,,,0213,Hogs
+MNG440457,,,0253,Turkeys And Turkey Eggs
+MNG440461,,,0213,Hogs
+MNG440462,,,0213,Hogs
+MNG440465,,,0213,Hogs
+MNG440466,,,0213,Hogs
+MNG440467,,,0241,Dairy Farms
+MNG440469,,,0213,Hogs
+MNG440471,,,0253,Turkeys And Turkey Eggs
+MNG440472,,,0241,Dairy Farms
+MNG440473,,,0213,Hogs
+MNG440475,,,0213,Hogs
+MNG440477,,,0213,Hogs
+MNG440478,,,0213,Hogs
+MNG440479,,,0213,Hogs
+MNG440480,,,0213,Hogs
+MNG440483,,,0213,Hogs
+MNG440484,,,0213,Hogs
+MNG440487,,,0213,Hogs
+MNG440488,,,0213,Hogs
+MNG440490,,,0213,Hogs
+MNG440492,,,0213,Hogs
+MNG440496,,,0241,Dairy Farms
+MNG440498,,,0241,Dairy Farms
+MNG440500,,,0213,Hogs
+MNG440501,,,0213,Hogs
+MNG440502,,,0213,Hogs
+MNG440503,,,0213,Hogs
+MNG440506,,,0213,Hogs
+MNG440511,,,0213,Hogs
+MNG440513,,,0253,Turkeys And Turkey Eggs
+MNG440517,,,0213,Hogs
+MNG440518,,,0213,Hogs
+MNG440519,,,0213,Hogs
+MNG440520,,,0213,Hogs
+MNG440523,,,0213,Hogs
+MNG440524,,,0213,Hogs
+MNG440526,,,0213,Hogs
+MNG440534,,,0213,Hogs
+MNG440538,,,0213,Hogs
+MNG440539,,,0213,Hogs
+MNG440540,,,0213,Hogs
+MNG440544,,,0211,Beef Cattle Feedlots
+MNG440545,,,0213,Hogs
+MNG440546,,,0213,Hogs
+MNG440549,,,0213,Hogs
+MNG440552,,,0213,Hogs
+MNG440553,,,0213,Hogs
+MNG440555,,,0213,Hogs
+MNG440557,,,0213,Hogs
+MNG440558,,,0213,Hogs
+MNG440563,,,0241,Dairy Farms
+MNG440564,,,0211,Beef Cattle Feedlots
+MNG440565,,,0213,Hogs
+MNG440569,,,0213,Hogs
+MNG440572,,,0213,Hogs
+MNG440573,,,0253,Turkeys And Turkey Eggs
+MNG440574,,,0213,Hogs
+MNG440578,,,0213,Hogs
+MNG440615,,,0213,Hogs
+MNG440616,,,0241,Dairy Farms
+MNG440619,,,0213,Hogs
+MNG440624,,,0213,Hogs
+MNG440625,,,0213,Hogs
+MNG440630,,,0213,Hogs
+MNG440632,,,0213,Hogs
+MNG440634,,,0211,Beef Cattle Feedlots
+MNG440638,,,0213,Hogs
+MNG440641,,,0213,Hogs
+MNG440643,,,2011,Meat Packing Plants
+MNG440644,,,0213,Hogs
+MNG440645,,,0213,Hogs
+MNG440647,,,0213,Hogs
+MNG440648,,,0213,Hogs
+MNG440657,,,0213,Hogs
+MNG440663,,,0213,Hogs
+MNG440668,,,0241,Dairy Farms
+MNG440670,,,0252,Chicken Eggs
+MNG440677,,,0241,Dairy Farms
+MNG440683,,,0253,Turkeys And Turkey Eggs
+MNG440684,,,0213,Hogs
+MNG440688,,,0213,Hogs
+MNG440691,,,0213,Hogs
+MNG440697,,,0213,Hogs
+MNG440698,,,0213,Hogs
+MNG440701,,,0253,Turkeys And Turkey Eggs
+MNG440703,,,0252,Chicken Eggs
+MNG440705,,,0213,Hogs
+MNG440707,,,0213,Hogs
+MNG440715,,,0213,Hogs
+MNG440717,,,0213,Hogs
+MNG440718,,,0213,Hogs
+MNG440720,,,0213,Hogs
+MNG440724,,,0213,Hogs
+MNG440725,,,0213,Hogs
+MNG440729,,,0241,Dairy Farms
+MNG440731,,,0253,Turkeys And Turkey Eggs
+MNG440737,,,0213,Hogs
+MNG440738,,,0213,Hogs
+MNG440739,,,0213,Hogs
+MNG440743,,,0253,Turkeys And Turkey Eggs
+MNG440747,,,0213,Hogs
+MNG440749,,,0241,Dairy Farms
+MNG440757,,,0213,Hogs
+MNG440761,,,0253,Turkeys And Turkey Eggs
+MNG440764,,,0213,Hogs
+MNG440765,,,0213,Hogs
+MNG440766,,,0213,Hogs
+MNG440767,,,8661,Religious Organizations
+MNG440772,,,0213,Hogs
+MNG440774,,,0213,Hogs
+MNG440776,,,0213,Hogs
+MNG440781,,,0213,Hogs
+MNG440787,,,0213,Hogs
+MNG440789,,,0241,Dairy Farms
+MNG440790,,,0213,Hogs
+MNG440792,,,0213,Hogs
+MNG440793,,,0213,Hogs
+MNG440795,,,0213,Hogs
+MNG440796,,,0213,Hogs
+MNG440797,,,0241,Dairy Farms
+MNG440799,,,0241,Dairy Farms
+MNG440800,,,0213,Hogs
+MNG440803,,,0241,Dairy Farms
+MNG440805,,,0213,Hogs
+MNG440807,,,0213,Hogs
+MNG440816,,,0213,Hogs
+MNG440821,,,0213,Hogs
+MNG440823,,,0211,Beef Cattle Feedlots
+MNG440824,,,0213,Hogs
+MNG440826,,,0213,Hogs
+MNG440827,,,0252,Chicken Eggs
+MNG440829,,,0241,Dairy Farms
+MNG440830,,,0213,Hogs
+MNG440831,,,0213,Hogs
+MNG440835,,,0213,Hogs
+MNG440837,,,0213,Hogs
+MNG440838,,,0213,Hogs
+MNG440840,,,0213,Hogs
+MNG440841,,,0213,Hogs
+MNG440843,,,0252,Chicken Eggs
+MNG440848,,,0253,Turkeys And Turkey Eggs
+MNG440850,,,0213,Hogs
+MNG440851,,,0213,Hogs
+MNG440855,,,0213,Hogs
+MNG440856,,,0213,Hogs
+MNG440857,,,0213,Hogs
+MNG440860,,,0213,Hogs
+MNG440861,,,0213,Hogs
+MNG440862,,,0213,Hogs
+MNG440863,,,0211,Beef Cattle Feedlots
+MNG440867,,,0213,Hogs
+MNG440868,,,0213,Hogs
+MNG440873,,,0213,Hogs
+MNG440876,,,0213,Hogs
+MNG440877,,,0241,Dairy Farms
+MNG440881,,,0241,Dairy Farms
+MNG440889,,,0253,Turkeys And Turkey Eggs
+MNG440891,,,0213,Hogs
+MNG440893,,,0213,Hogs
+MNG440894,,,0211,Beef Cattle Feedlots
+MNG440898,,,0241,Dairy Farms
+MNG440900,,,0241,Dairy Farms
+MNG440905,,,0253,Turkeys And Turkey Eggs
+MNG440906,,,0211,Beef Cattle Feedlots
+MNG440908,,,0213,Hogs
+MNG440909,,,0211,Beef Cattle Feedlots
+MNG440912,,,0213,Hogs
+MNG440913,,,0213,Hogs
+MNG440914,,,0213,Hogs
+MNG440916,,,0211,Beef Cattle Feedlots
+MNG440921,,,0213,Hogs
+MNG440923,,,0213,Hogs
+MNG440924,,,0213,Hogs
+MNG440925,,,0213,Hogs
+MNG440928,,,0213,Hogs
+MNG440929,,,0211,Beef Cattle Feedlots
+MNG440930,,,0253,Turkeys And Turkey Eggs
+MNG440932,,,0213,Hogs
+MNG440933,,,0213,Hogs
+MNG440936,,,0213,Hogs
+MNG440941,,,0213,Hogs
+MNG440942,,,0213,Hogs
+MNG440944,,,0213,Hogs
+MNG440945,,,0213,Hogs
+MNG440950,,,0213,Hogs
+MNG440951,,,0211,Beef Cattle Feedlots
+MNG440956,,,0213,Hogs
+MNG440958,,,0241,Dairy Farms
+MNG440963,,,0213,Hogs
+MNG440964,,,0241,Dairy Farms
+MNG440965,,,0213,Hogs
+MNG440967,,,0213,Hogs
+MNG440968,,,0213,Hogs
+MNG440970,,,0213,Hogs
+MNG440971,,,0213,Hogs
+MNG440972,,,0213,Hogs
+MNG440975,,,0253,Turkeys And Turkey Eggs
+MNG440976,,,0213,Hogs
+MNG440978,,,0211,Beef Cattle Feedlots
+MNG440983,,,0241,Dairy Farms
+MNG440985,,,0213,Hogs
+MNG440989,,,0213,Hogs
+MNG440992,,,0241,Dairy Farms
+MNG440993,,,0211,Beef Cattle Feedlots
+MNG441000,,,0213,Hogs
+MNG441001,,,0241,Dairy Farms
+MNG441005,,,0213,Hogs
+MNG441007,,,0211,Beef Cattle Feedlots
+MNG441008,,,0213,Hogs
+MNG441010,,,0213,Hogs
+MNG441017,,,0213,Hogs
+MNG441019,,,0213,Hogs
+MNG441020,,,0213,Hogs
+MNG441023,,,0241,Dairy Farms
+MNG441024,,,0213,Hogs
+MNG441027,,,0241,Dairy Farms
+MNG441030,,,0213,Hogs
+MNG441032,,,0213,Hogs
+MNG441034,,,0213,Hogs
+MNG441039,,,0213,Hogs
+MNG441040,,,0213,Hogs
+MNG441041,,,0213,Hogs
+MNG441042,,,0213,Hogs
+MNG441044,,,2015,Poultry Slaughtering And Processing
+MNG441045,,,0251,"Broiler, Fryer, And Roaster Chickens"
+MNG441046,,,0213,Hogs
+MNG441048,,,0213,Hogs
+MNG441049,,,0241,Dairy Farms
+MNG441052,,,0253,Turkeys And Turkey Eggs
+MNG441055,,,0213,Hogs
+MNG441056,,,0213,Hogs
+MNG441060,,,0211,Beef Cattle Feedlots
+MNG441065,,,0241,Dairy Farms
+MNG441067,,,0213,Hogs
+MNG441068,,,0213,Hogs
+MNG441069,,,0213,Hogs
+MNG441070,,,0213,Hogs
+MNG441071,,,0213,Hogs
+MNG441072,,,0253,Turkeys And Turkey Eggs
+MNG441076,,,0213,Hogs
+MNG441079,,,0213,Hogs
+MNG441081,,,0213,Hogs
+MNG441082,,,0213,Hogs
+MNG441083,,,0213,Hogs
+MNG441085,,,0213,Hogs
+MNG441086,,,0213,Hogs
+MNG441087,,,0241,Dairy Farms
+MNG441089,,,0213,Hogs
+MNG441093,,,0213,Hogs
+MNG441096,,,0213,Hogs
+MNG441097,,,0213,Hogs
+MNG441098,,,0213,Hogs
+MNG441100,,,0213,Hogs
+MNG441101,,,0213,Hogs
+MNG441102,,,4952,Sewerage Systems
+MNG441104,,,0211,Beef Cattle Feedlots
+MNG441110,,,0241,Dairy Farms
+MNG441111,,,0213,Hogs
+MNG441112,,,0211,Beef Cattle Feedlots
+MNG441113,,,0211,Beef Cattle Feedlots
+MNG441114,,,0251,"Broiler, Fryer, And Roaster Chickens"
+MNG441116,,,0213,Hogs
+MNG441117,,,0253,Turkeys And Turkey Eggs
+MNG441118,,,0253,Turkeys And Turkey Eggs
+MNG441119,,,0241,Dairy Farms
+MNG441121,,,0213,Hogs
+MNG441125,,,0213,Hogs
+MNG441127,,,0213,Hogs
+MNG441128,,,0213,Hogs
+MNG441130,,,0213,Hogs
+MNG441133,,,0241,Dairy Farms
+MNG441135,,,0213,Hogs
+MNG441138,,,0213,Hogs
+MNG441139,,,0213,Hogs
+MNG441142,,,0213,Hogs
+MNG441145,,,0213,Hogs
+MNG441146,,,0241,Dairy Farms
+MNG441148,,,0251,"Broiler, Fryer, And Roaster Chickens"
+MNG441149,,,0213,Hogs
+MNG441150,,,0213,Hogs
+MNG441151,,,0213,Hogs
+MNG441152,,,0213,Hogs
+MNG441154,,,0213,Hogs
+MNG441155,,,0241,Dairy Farms
+MNG441160,,,0213,Hogs
+MNG441162,,,0251,"Broiler, Fryer, And Roaster Chickens"
+MNG441163,,,0251,"Broiler, Fryer, And Roaster Chickens"
+MNG441164,,,0211,Beef Cattle Feedlots
+MNG441165,,,0213,Hogs
+MNG441166,,,0213,Hogs
+MNG441167,,,0241,Dairy Farms
+MNG441168,,,0213,Hogs
+MNG441172,,,0213,Hogs
+MNG441173,,,0213,Hogs
+MNG441176,,,0213,Hogs
+MNG441177,,,0213,Hogs
+MNG441186,,,0213,Hogs
+MNG441187,,,0213,Hogs
+MNG441188,,,0213,Hogs
+MNG441189,,,0213,Hogs
+MNG441190,,,0213,Hogs
+MNG441191,,,0213,Hogs
+MNG441192,,,0213,Hogs
+MNG441194,,,0213,Hogs
+MNG441197,,,0213,Hogs
+MNG441199,,,0241,Dairy Farms
+MNG441205,,,0241,Dairy Farms
+MNG441206,,,0213,Hogs
+MNG441209,,,0211,Beef Cattle Feedlots
+MNG441214,,,0213,Hogs
+MNG441218,,,0213,Hogs
+MNG441227,,,0213,Hogs
+MNG441231,,,0213,Hogs
+MNG441233,,,0213,Hogs
+MNG441238,,,0213,Hogs
+MNG441240,,,0213,Hogs
+MNG441246,,,0241,Dairy Farms
+MNG441259,,,0213,Hogs
+MNG441264,,,0241,Dairy Farms
+MNG441271,,,0213,Hogs
+MNG441272,,,0241,Dairy Farms
+MNG441275,,,0213,Hogs
+MNG441276,,,0213,Hogs
+MNG441278,,,0211,Beef Cattle Feedlots
+MNG441279,,,0213,Hogs
+MNG441289,,,0211,Beef Cattle Feedlots
+MNG441290,,,0213,Hogs
+MNG441296,,,0213,Hogs
+MNG441297,,,0213,Hogs
+MNG441299,,,0213,Hogs
+MNG441303,,,0211,Beef Cattle Feedlots
+MNG441308,,,0213,Hogs
+MNG441310,,,0213,Hogs
+MNG441325,,,0213,Hogs
+MNG441327,,,0213,Hogs
+MNG441331,,,0213,Hogs
+MNG441333,,,0241,Dairy Farms
+MNG441334,,,0213,Hogs
+MNG441338,,,0213,Hogs
+MNG441339,,,0213,Hogs
+MNG441342,,,0241,Dairy Farms
+MNG441344,,,0213,Hogs
+MNG441345,,,0213,Hogs
+MNG441347,,,0211,Beef Cattle Feedlots
+MNG441348,,,0213,Hogs
+MNG441392,,,0211,Beef Cattle Feedlots
+MNG441419,,,0241,Dairy Farms
+MNG441437,,,0213,Hogs
+MNG441485,,,0213,Hogs
+MNG441530,,,0211,Beef Cattle Feedlots
+MNG441627,,,0241,Dairy Farms
+MNG441714,,,0213,Hogs
+MNG441715,,,0213,Hogs
+MNG441726,,,0211,Beef Cattle Feedlots
+MNG441742,,,0213,Hogs
+MNG441821,,,0213,Hogs
+MNG441870,,,0241,Dairy Farms
+MNG441877,,,0213,Hogs
+MNG441890,,,0213,Hogs
+MNG441921,,,0211,Beef Cattle Feedlots
+MNG441922,,,4221,Farm Product Warehousing And Storage
+MNG441924,,,5143,"Dairy Products, Except Dried Or Canned"
+MNG441937,,,0241,Dairy Farms
+MNG441942,,,0213,Hogs
+MNG441948,,,0213,Hogs
+MNG441957,,,4939,Combination Utilities
+MNG441988,,,0211,Beef Cattle Feedlots
+MNG441993,,,0213,Hogs
+MNG441999,,,0213,Hogs
+MNG442014,,,0213,Hogs
+MNG442021,,,0241,Dairy Farms
+MNG442112,,,0241,Dairy Farms
+MNG442115,,,0211,Beef Cattle Feedlots
+MNG442125,,,4952,Sewerage Systems
+MNG442128,,,0241,Dairy Farms
+MNG442129,,,5143,"Dairy Products, Except Dried Or Canned"
+MNG442130,,,0213,Hogs
+MNG442131,,,0251,"Broiler, Fryer, And Roaster Chickens"
+MNG442134,,,0241,Dairy Farms
+MNG442146,,,0241,Dairy Farms
+MNG442149,,,0241,Dairy Farms
+MNG442250,,,0213,Hogs
+MNG442252,,,0213,Hogs
+MNG442257,,,0211,Beef Cattle Feedlots
+MNG490001,,,1442,Construction Sand And Gravel
+MNG490003,,,1442,Construction Sand And Gravel
+MNG490004,,,1442,Construction Sand And Gravel
+MNG490005,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490006,,,1422,Crushed And Broken Limestone
+MNG490009,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490010,,,1442,Construction Sand And Gravel
+MNG490015,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490019,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490021,,,1442,Construction Sand And Gravel
+MNG490022,,,1442,Construction Sand And Gravel
+MNG490023,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490026,,,1442,Construction Sand And Gravel
+MNG490027,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490033,,,1442,Construction Sand And Gravel
+MNG490034,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490035,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490037,,,1442,Construction Sand And Gravel
+MNG490038,,,1442,Construction Sand And Gravel
+MNG490039,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490041,,,1442,Construction Sand And Gravel
+MNG490042,,,1442,Construction Sand And Gravel
+MNG490046,,,1442,Construction Sand And Gravel
+MNG490048,,,1442,Construction Sand And Gravel
+MNG490061,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490066,,,1442,Construction Sand And Gravel
+MNG490067,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490069,,,1442,Construction Sand And Gravel
+MNG490071,,,1442,Construction Sand And Gravel
+MNG490072,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490073,,,1442,Construction Sand And Gravel
+MNG490074,,,1442,Construction Sand And Gravel
+MNG490076,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490077,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490079,,,1442,Construction Sand And Gravel
+MNG490080,,,1422,Crushed And Broken Limestone
+MNG490081,,,1422,Crushed And Broken Limestone
+MNG490083,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490084,,,1422,Crushed And Broken Limestone
+MNG490085,,,1442,Construction Sand And Gravel
+MNG490086,,,1442,Construction Sand And Gravel
+MNG490087,,,1422,Crushed And Broken Limestone
+MNG490088,,,1442,Construction Sand And Gravel
+MNG490090,,,1442,Construction Sand And Gravel
+MNG490093,,,1442,Construction Sand And Gravel
+MNG490095,,,1442,Construction Sand And Gravel
+MNG490096,,,1442,Construction Sand And Gravel
+MNG490097,,,1442,Construction Sand And Gravel
+MNG490099,,,1442,Construction Sand And Gravel
+MNG490100,,,1442,Construction Sand And Gravel
+MNG490101,,,1442,Construction Sand And Gravel
+MNG490103,,,1442,Construction Sand And Gravel
+MNG490104,,,1422,Crushed And Broken Limestone
+MNG490105,,,1442,Construction Sand And Gravel
+MNG490108,,,1442,Construction Sand And Gravel
+MNG490109,,,1442,Construction Sand And Gravel
+MNG490110,,,1442,Construction Sand And Gravel
+MNG490112,,,1422,Crushed And Broken Limestone
+MNG490114,,,1422,Crushed And Broken Limestone
+MNG490115,,,1422,Crushed And Broken Limestone
+MNG490117,,,1423,Crushed And Broken Granite
+MNG490118,,,1442,Construction Sand And Gravel
+MNG490120,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490122,,,1442,Construction Sand And Gravel
+MNG490123,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490125,,,1442,Construction Sand And Gravel
+MNG490127,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490128,,,1442,Construction Sand And Gravel
+MNG490130,,,1442,Construction Sand And Gravel
+MNG490131,,,1442,Construction Sand And Gravel
+MNG490132,,,1442,Construction Sand And Gravel
+MNG490133,,,3273,Ready-Mixed Concrete
+MNG490134,,,1422,Crushed And Broken Limestone
+MNG490136,,,1442,Construction Sand And Gravel
+MNG490137,,,1442,Construction Sand And Gravel
+MNG490138,,,1442,Construction Sand And Gravel
+MNG490139,,,1611,Highway And Street Construction
+MNG490140,,,1442,Construction Sand And Gravel
+MNG490141,,,1442,Construction Sand And Gravel
+MNG490143,,,1411,Dimension Stone
+MNG490144,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490145,,,1442,Construction Sand And Gravel
+MNG490146,,,1442,Construction Sand And Gravel
+MNG490147,,,1442,Construction Sand And Gravel
+MNG490148,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490149,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490151,,,1442,Construction Sand And Gravel
+MNG490152,,,1442,Construction Sand And Gravel
+MNG490154,,,1442,Construction Sand And Gravel
+MNG490156,,,1442,Construction Sand And Gravel
+MNG490158,,,1442,Construction Sand And Gravel
+MNG490160,,,1442,Construction Sand And Gravel
+MNG490162,,,1442,Construction Sand And Gravel
+MNG490165,,,1423,Crushed And Broken Granite
+MNG490166,,,1442,Construction Sand And Gravel
+MNG490167,,,1422,Crushed And Broken Limestone
+MNG490169,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490172,,,1442,Construction Sand And Gravel
+MNG490173,,,1411,Dimension Stone
+MNG490175,,,1442,Construction Sand And Gravel
+MNG490176,,,2732,Book Printing
+MNG490177,,,1442,Construction Sand And Gravel
+MNG490178,,,1411,Dimension Stone
+MNG490180,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490182,,,1442,Construction Sand And Gravel
+MNG490183,,,4953,Refuse Systems
+MNG490184,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490185,,,1442,Construction Sand And Gravel
+MNG490186,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490188,,,1442,Construction Sand And Gravel
+MNG490193,,,1442,Construction Sand And Gravel
+MNG490195,,,1423,Crushed And Broken Granite
+MNG490196,,,1442,Construction Sand And Gravel
+MNG490198,,,1442,Construction Sand And Gravel
+MNG490199,,,1442,Construction Sand And Gravel
+MNG490202,,,1442,Construction Sand And Gravel
+MNG490203,,,1442,Construction Sand And Gravel
+MNG490204,,,1442,Construction Sand And Gravel
+MNG490209,,,1442,Construction Sand And Gravel
+MNG490210,,,1411,Dimension Stone
+MNG490211,,,1442,Construction Sand And Gravel
+MNG490213,,,1442,Construction Sand And Gravel
+MNG490214,,,1442,Construction Sand And Gravel
+MNG490216,,,1442,Construction Sand And Gravel
+MNG490217,,,1442,Construction Sand And Gravel
+MNG490218,,,1442,Construction Sand And Gravel
+MNG490219,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490220,,,1442,Construction Sand And Gravel
+MNG490222,,,1429,Crushed And Broken Stone
+MNG490223,,,1446,Industrial Sand
+MNG490225,,,1442,Construction Sand And Gravel
+MNG490226,,,1442,Construction Sand And Gravel
+MNG490227,,,1442,Construction Sand And Gravel
+MNG490228,,,1442,Construction Sand And Gravel
+MNG490230,,,1442,Construction Sand And Gravel
+MNG490232,,,1442,Construction Sand And Gravel
+MNG490233,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490234,,,1442,Construction Sand And Gravel
+MNG490235,,,1442,Construction Sand And Gravel
+MNG490236,,,1442,Construction Sand And Gravel
+MNG490238,,,1442,Construction Sand And Gravel
+MNG490239,,,1442,Construction Sand And Gravel
+MNG490240,,,1442,Construction Sand And Gravel
+MNG490241,,,1442,Construction Sand And Gravel
+MNG490242,,,1442,Construction Sand And Gravel
+MNG490243,,,1442,Construction Sand And Gravel
+MNG490244,,,1442,Construction Sand And Gravel
+MNG490245,,,1442,Construction Sand And Gravel
+MNG490246,,,1442,Construction Sand And Gravel
+MNG490248,,,1442,Construction Sand And Gravel
+MNG490249,,,3273,Ready-Mixed Concrete
+MNG490250,,,1422,Crushed And Broken Limestone
+MNG490251,,,1442,Construction Sand And Gravel
+MNG490252,,,1442,Construction Sand And Gravel
+MNG490254,,,1442,Construction Sand And Gravel
+MNG490255,,,1422,Crushed And Broken Limestone
+MNG490256,,,3272,Concrete Products
+MNG490257,,,1442,Construction Sand And Gravel
+MNG490259,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490260,,,1442,Construction Sand And Gravel
+MNG490262,,,1442,Construction Sand And Gravel
+MNG490264,,,1429,Crushed And Broken Stone
+MNG490266,,,1442,Construction Sand And Gravel
+MNG490268,,,1442,Construction Sand And Gravel
+MNG490270,,,1442,Construction Sand And Gravel
+MNG490271,,,1442,Construction Sand And Gravel
+MNG490272,,,1442,Construction Sand And Gravel
+MNG490273,,,1442,Construction Sand And Gravel
+MNG490274,,,1442,Construction Sand And Gravel
+MNG490275,,,1446,Industrial Sand
+MNG490277,,,3273,Ready-Mixed Concrete
+MNG490278,,,3273,Ready-Mixed Concrete
+MNG490279,,,1442,Construction Sand And Gravel
+MNG490282,,,3273,Ready-Mixed Concrete
+MNG490283,,,3273,Ready-Mixed Concrete
+MNG490284,,,1442,Construction Sand And Gravel
+MNG490285,,,1446,Industrial Sand
+MNG490286,,,3273,Ready-Mixed Concrete
+MNG490287,,,3273,Ready-Mixed Concrete
+MNG490288,,,3272,Concrete Products
+MNG490289,,,1442,Construction Sand And Gravel
+MNG490291,,,1442,Construction Sand And Gravel
+MNG490293,,,1442,Construction Sand And Gravel
+MNG490294,,,1442,Construction Sand And Gravel
+MNG490295,,,3273,Ready-Mixed Concrete
+MNG490296,,,1442,Construction Sand And Gravel
+MNG490297,,,1442,Construction Sand And Gravel
+MNG490298,,,1446,Industrial Sand
+MNG490300,,,1442,Construction Sand And Gravel
+MNG490302,,,1429,Crushed And Broken Stone
+MNG490303,,,3271,Concrete Block And Brick
+MNG490304,,,3272,Concrete Products
+MNG490307,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490308,,,1442,Construction Sand And Gravel
+MNG490311,,,1442,Construction Sand And Gravel
+MNG490312,,,1442,Construction Sand And Gravel
+MNG490313,,,1429,Crushed And Broken Stone
+MNG490314,,,1442,Construction Sand And Gravel
+MNG490315,,,1442,Construction Sand And Gravel
+MNG490317,,,1446,Industrial Sand
+MNG490319,,,1442,Construction Sand And Gravel
+MNG490320,,,1442,Construction Sand And Gravel
+MNG490323,,,3273,Ready-Mixed Concrete
+MNG490326,,,1442,Construction Sand And Gravel
+MNG490327,,,1442,Construction Sand And Gravel
+MNG490385,,,1442,Construction Sand And Gravel
+MNG490391,,,1442,Construction Sand And Gravel
+MNG490402,,,3272,Concrete Products
+MNG490404,,,1411,Dimension Stone
+MNG490406,,,1442,Construction Sand And Gravel
+MNG490415,,,1442,Construction Sand And Gravel
+MNG490419,,,1442,Construction Sand And Gravel
+MNG490472,,,1442,Construction Sand And Gravel
+MNG490473,,,1442,Construction Sand And Gravel
+MNG490522,,,1442,Construction Sand And Gravel
+MNG490525,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490530,,,1442,Construction Sand And Gravel
+MNG490531,,,1442,Construction Sand And Gravel
+MNG490532,,,1442,Construction Sand And Gravel
+MNG490540,,,3273,Ready-Mixed Concrete
+MNG490542,,,1442,Construction Sand And Gravel
+MNG490546,,,1442,Construction Sand And Gravel
+MNG490549,,,1442,Construction Sand And Gravel
+MNG490550,,,1442,Construction Sand And Gravel
+MNG490552,,,1442,Construction Sand And Gravel
+MNG490553,,,1442,Construction Sand And Gravel
+MNG490556,,,1442,Construction Sand And Gravel
+MNG490558,,,1442,Construction Sand And Gravel
+MNG490560,,,1442,Construction Sand And Gravel
+MNG490565,,,1442,Construction Sand And Gravel
+MNG490566,,,1442,Construction Sand And Gravel
+MNG490571,,,1442,Construction Sand And Gravel
+MNG490572,,,1442,Construction Sand And Gravel
+MNG490573,,,1442,Construction Sand And Gravel
+MNG490574,,,1429,Crushed And Broken Stone
+MNG490576,,,1442,Construction Sand And Gravel
+MNG490577,,,1442,Construction Sand And Gravel
+MNG490578,,,1442,Construction Sand And Gravel
+MNG490580,,,1446,Industrial Sand
+MNG490582,,,1423,Crushed And Broken Granite
+MNG490584,,,1442,Construction Sand And Gravel
+MNG490585,,,1442,Construction Sand And Gravel
+MNG490588,,,1422,Crushed And Broken Limestone
+MNG490589,,,1442,Construction Sand And Gravel
+MNG490590,,,1442,Construction Sand And Gravel
+MNG490591,,,1442,Construction Sand And Gravel
+MNG490592,,,1442,Construction Sand And Gravel
+MNG490593,,,1442,Construction Sand And Gravel
+MNG490594,,,1442,Construction Sand And Gravel
+MNG490595,,,1442,Construction Sand And Gravel
+MNG490596,,,1442,Construction Sand And Gravel
+MNG490597,,,3273,Ready-Mixed Concrete
+MNG490598,,,1442,Construction Sand And Gravel
+MNG490599,,,1442,Construction Sand And Gravel
+MNG490604,,,1442,Construction Sand And Gravel
+MNG490605,,,1442,Construction Sand And Gravel
+MNG490606,,,3273,Ready-Mixed Concrete
+MNG490607,,,1442,Construction Sand And Gravel
+MNG490609,,,1442,Construction Sand And Gravel
+MNG490610,,,1611,Highway And Street Construction
+MNG490611,,,1442,Construction Sand And Gravel
+MNG490613,,,1442,Construction Sand And Gravel
+MNG490617,,,1442,Construction Sand And Gravel
+MNG490620,,,1429,Crushed And Broken Stone
+MNG490621,,,1442,Construction Sand And Gravel
+MNG490622,,,1442,Construction Sand And Gravel
+MNG490623,,,1442,Construction Sand And Gravel
+MNG490624,,,1442,Construction Sand And Gravel
+MNG490625,,,1442,Construction Sand And Gravel
+MNG490626,,,1442,Construction Sand And Gravel
+MNG490627,,,1442,Construction Sand And Gravel
+MNG490628,,,1442,Construction Sand And Gravel
+MNG490629,,,1442,Construction Sand And Gravel
+MNG490630,,,1442,Construction Sand And Gravel
+MNG490631,,,1442,Construction Sand And Gravel
+MNG490632,,,1442,Construction Sand And Gravel
+MNG490633,,,1442,Construction Sand And Gravel
+MNG490634,,,1442,Construction Sand And Gravel
+MNG490635,,,1442,Construction Sand And Gravel
+MNG490636,,,1422,Crushed And Broken Limestone
+MNG490637,,,1442,Construction Sand And Gravel
+MNG490638,,,1442,Construction Sand And Gravel
+MNG490639,,,1442,Construction Sand And Gravel
+MNG490640,,,1442,Construction Sand And Gravel
+MNG490641,,,1442,Construction Sand And Gravel
+MNG490642,,,1442,Construction Sand And Gravel
+MNG490643,,,1442,Construction Sand And Gravel
+MNG490644,,,1442,Construction Sand And Gravel
+MNG490645,,,1442,Construction Sand And Gravel
+MNG490646,,,1442,Construction Sand And Gravel
+MNG490647,,,1442,Construction Sand And Gravel
+MNG490648,,,2951,Asphalt Paving Mixtures And Blocks
+MNG490649,,,1442,Construction Sand And Gravel
+MNG490650,,,1442,Construction Sand And Gravel
+MNG490655,,,1442,Construction Sand And Gravel
+MNG490656,,,1442,Construction Sand And Gravel
+MNG490657,,,1442,Construction Sand And Gravel
+MNG490658,,,1442,Construction Sand And Gravel
+MNG490659,,,1442,Construction Sand And Gravel
+MNG490660,,,1429,Crushed And Broken Stone
+MNG490661,,,1442,Construction Sand And Gravel
+MNG490662,,,1442,Construction Sand And Gravel
+MNG490663,,,1442,Construction Sand And Gravel
+MNG490664,,,1442,Construction Sand And Gravel
+MNG490665,,,1442,Construction Sand And Gravel
+MNG490666,,,1442,Construction Sand And Gravel
+MNG490667,,,1442,Construction Sand And Gravel
+MNG490668,,,1442,Construction Sand And Gravel
+MNG490670,,,1442,Construction Sand And Gravel
+MNG490671,,,1442,Construction Sand And Gravel
+MNG490672,,,1442,Construction Sand And Gravel
+MNG490673,,,1442,Construction Sand And Gravel
+MNG490675,,,1442,Construction Sand And Gravel
+MNG490676,,,1442,Construction Sand And Gravel
+MNG490677,,,1442,Construction Sand And Gravel
+MNG490678,,,1423,Crushed And Broken Granite
+MNG490679,,,1442,Construction Sand And Gravel
+MNG490680,,,1442,Construction Sand And Gravel
+MNG490681,,,1442,Construction Sand And Gravel
+MNG490682,,,1442,Construction Sand And Gravel
+MNG490683,,,1442,Construction Sand And Gravel
+MNG490684,,,1442,Construction Sand And Gravel
+MNG490685,,,1442,Construction Sand And Gravel
+MNG490686,,,1442,Construction Sand And Gravel
+MNG490687,,,1442,Construction Sand And Gravel
+MNG490688,,,1442,Construction Sand And Gravel
+MNG490689,,,1442,Construction Sand And Gravel
+MNG490692,,,1442,Construction Sand And Gravel
+MNG490693,,,1442,Construction Sand And Gravel
+MNG490694,,,1442,Construction Sand And Gravel
+MNG490695,,,1442,Construction Sand And Gravel
+MNG490696,,,1442,Construction Sand And Gravel
+MNG490697,,,1442,Construction Sand And Gravel
+MNG490698,,,3273,Ready-Mixed Concrete
+MNG490699,,,1442,Construction Sand And Gravel
+MNG490700,,,1442,Construction Sand And Gravel
+MNG490702,,,1442,Construction Sand And Gravel
+MNG490703,,,1442,Construction Sand And Gravel
+MNG490704,,,1442,Construction Sand And Gravel
+MNG490705,,,1442,Construction Sand And Gravel
+MNG490706,,,1442,Construction Sand And Gravel
+MNG490707,,,1442,Construction Sand And Gravel
+MNG490708,,,1411,Dimension Stone
+MNG490709,,,3272,Concrete Products
+MNG490710,,,1442,Construction Sand And Gravel
+MNG490711,,,1442,Construction Sand And Gravel
+MNG490712,,,1442,Construction Sand And Gravel
+MNG490713,,,1442,Construction Sand And Gravel
+MNG490714,,,1442,Construction Sand And Gravel
+MNG490715,,,1442,Construction Sand And Gravel
+MNG490717,,,1442,Construction Sand And Gravel
+MNG490718,,,1442,Construction Sand And Gravel
+MNG490719,,,1442,Construction Sand And Gravel
+MNG550001,,,4952,Sewerage Systems
+MNG550002,,,4952,Sewerage Systems
+MNG550003,,,4952,Sewerage Systems
+MNG550004,,,4952,Sewerage Systems
+MNG550005,,,4952,Sewerage Systems
+MNG550006,,,4952,Sewerage Systems
+MNG550007,,,4952,Sewerage Systems
+MNG550008,,,4952,Sewerage Systems
+MNG550009,,,8211,Elementary And Secondary Schools
+MNG550010,,,4952,Sewerage Systems
+MNG550012,,,4952,Sewerage Systems
+MNG550013,,,4952,Sewerage Systems
+MNG550014,,,4952,Sewerage Systems
+MNG550015,,,4952,Sewerage Systems
+MNG550016,,,4952,Sewerage Systems
+MNG550017,,,4952,Sewerage Systems
+MNG550018,,,4952,Sewerage Systems
+MNG550019,,,4952,Sewerage Systems
+MNG550021,,,4952,Sewerage Systems
+MNG550022,,,4952,Sewerage Systems
+MNG550023,,,9512,"Land, Mineral, Wildlife Conservation"
+MNG550024,,,4952,Sewerage Systems
+MNG550025,,,4952,Sewerage Systems
+MNG550026,,,4952,Sewerage Systems
+MNG550027,,,4952,Sewerage Systems
+MNG550028,,,4952,Sewerage Systems
+MNG580001,,,4952,Sewerage Systems
+MNG580002,,,4952,Sewerage Systems
+MNG580003,,,4952,Sewerage Systems
+MNG580004,,,4952,Sewerage Systems
+MNG580006,,,4952,Sewerage Systems
+MNG580007,,,4952,Sewerage Systems
+MNG580008,,,4952,Sewerage Systems
+MNG580009,,,4952,Sewerage Systems
+MNG580010,,,4952,Sewerage Systems
+MNG580011,,,4952,Sewerage Systems
+MNG580012,,,4952,Sewerage Systems
+MNG580013,,,4952,Sewerage Systems
+MNG580014,,,4952,Sewerage Systems
+MNG580015,,,4952,Sewerage Systems
+MNG580016,,,4952,Sewerage Systems
+MNG580017,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580018,,,4952,Sewerage Systems
+MNG580019,,,4952,Sewerage Systems
+MNG580020,,,4952,Sewerage Systems
+MNG580021,,,4952,Sewerage Systems
+MNG580022,,,4952,Sewerage Systems
+MNG580023,,,4952,Sewerage Systems
+MNG580024,,,4952,Sewerage Systems
+MNG580025,,,4952,Sewerage Systems
+MNG580026,,,4952,Sewerage Systems
+MNG580027,,,4952,Sewerage Systems
+MNG580029,,,4952,Sewerage Systems
+MNG580030,,,4952,Sewerage Systems
+MNG580031,,,4952,Sewerage Systems
+MNG580032,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580033,,,4952,Sewerage Systems
+MNG580034,,,4952,Sewerage Systems
+MNG580035,,,4952,Sewerage Systems
+MNG580037,,,4952,Sewerage Systems
+MNG580038,,,4952,Sewerage Systems
+MNG580039,,,4952,Sewerage Systems
+MNG580041,,,4952,Sewerage Systems
+MNG580042,,,4952,Sewerage Systems
+MNG580043,,,4952,Sewerage Systems
+MNG580045,,,4952,Sewerage Systems
+MNG580048,,,4952,Sewerage Systems
+MNG580049,,,4952,Sewerage Systems
+MNG580050,,,4952,Sewerage Systems
+MNG580053,,,4952,Sewerage Systems
+MNG580055,,,4952,Sewerage Systems
+MNG580056,,,4952,Sewerage Systems
+MNG580057,,,4952,Sewerage Systems
+MNG580058,,,7033,Trailer Parks And Campsites
+MNG580059,,,4952,Sewerage Systems
+MNG580060,,,4952,Sewerage Systems
+MNG580061,,,4952,Sewerage Systems
+MNG580062,,,4952,Sewerage Systems
+MNG580063,,,4952,Sewerage Systems
+MNG580064,,,4952,Sewerage Systems
+MNG580065,,,9621,"Regulation, Administration Of Transportation"
+MNG580066,,,4952,Sewerage Systems
+MNG580067,,,4952,Sewerage Systems
+MNG580068,,,4952,Sewerage Systems
+MNG580070,,,6515,Mobile Home Site Operators
+MNG580071,,,8661,Religious Organizations
+MNG580072,,,4952,Sewerage Systems
+MNG580073,,,4952,Sewerage Systems
+MNG580075,,,4952,Sewerage Systems
+MNG580076,,,4952,Sewerage Systems
+MNG580077,,,4952,Sewerage Systems
+MNG580078,,,4952,Sewerage Systems
+MNG580079,,,4952,Sewerage Systems
+MNG580080,,,4952,Sewerage Systems
+MNG580081,,,4952,Sewerage Systems
+MNG580082,,,4952,Sewerage Systems
+MNG580083,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580084,,,4952,Sewerage Systems
+MNG580085,,,4952,Sewerage Systems
+MNG580086,,,4952,Sewerage Systems
+MNG580087,,,4952,Sewerage Systems
+MNG580088,,,4952,Sewerage Systems
+MNG580090,,,4952,Sewerage Systems
+MNG580091,,,8211,Elementary And Secondary Schools
+MNG580093,,,4952,Sewerage Systems
+MNG580094,,,4952,Sewerage Systems
+MNG580097,,,4952,Sewerage Systems
+MNG580098,,,4952,Sewerage Systems
+MNG580099,,,4952,Sewerage Systems
+MNG580100,,,4952,Sewerage Systems
+MNG580101,,,4952,Sewerage Systems
+MNG580102,,,4952,Sewerage Systems
+MNG580103,,,4952,Sewerage Systems
+MNG580104,,,4952,Sewerage Systems
+MNG580105,,,4952,Sewerage Systems
+MNG580106,,,4952,Sewerage Systems
+MNG580107,,,4952,Sewerage Systems
+MNG580108,,,4952,Sewerage Systems
+MNG580109,,,4952,Sewerage Systems
+MNG580110,,,4952,Sewerage Systems
+MNG580111,,,4952,Sewerage Systems
+MNG580112,,,4952,Sewerage Systems
+MNG580113,,,8661,Religious Organizations
+MNG580114,,,4952,Sewerage Systems
+MNG580115,,,4952,Sewerage Systems
+MNG580116,,,4952,Sewerage Systems
+MNG580118,,,4952,Sewerage Systems
+MNG580119,,,4952,Sewerage Systems
+MNG580120,,,4952,Sewerage Systems
+MNG580121,,,4952,Sewerage Systems
+MNG580122,,,4952,Sewerage Systems
+MNG580124,,,4952,Sewerage Systems
+MNG580125,,,4952,Sewerage Systems
+MNG580126,,,4952,Sewerage Systems
+MNG580127,,,4952,Sewerage Systems
+MNG580128,,,4952,Sewerage Systems
+MNG580129,,,4952,Sewerage Systems
+MNG580131,,,4952,Sewerage Systems
+MNG580132,,,4952,Sewerage Systems
+MNG580133,,,4952,Sewerage Systems
+MNG580134,,,4952,Sewerage Systems
+MNG580135,,,4952,Sewerage Systems
+MNG580137,,,4952,Sewerage Systems
+MNG580138,,,4952,Sewerage Systems
+MNG580139,,,4952,Sewerage Systems
+MNG580140,,,4952,Sewerage Systems
+MNG580141,,,4952,Sewerage Systems
+MNG580142,,,4952,Sewerage Systems
+MNG580143,,,4952,Sewerage Systems
+MNG580144,,,4952,Sewerage Systems
+MNG580145,,,4952,Sewerage Systems
+MNG580146,,,4952,Sewerage Systems
+MNG580147,,,4952,Sewerage Systems
+MNG580148,,,4952,Sewerage Systems
+MNG580149,,,4952,Sewerage Systems
+MNG580150,,,4952,Sewerage Systems
+MNG580151,,,4952,Sewerage Systems
+MNG580152,,,4952,Sewerage Systems
+MNG580153,,,4952,Sewerage Systems
+MNG580154,,,4952,Sewerage Systems
+MNG580155,,,4952,Sewerage Systems
+MNG580156,,,4952,Sewerage Systems
+MNG580157,,,4952,Sewerage Systems
+MNG580159,,,4952,Sewerage Systems
+MNG580160,,,4952,Sewerage Systems
+MNG580161,,,4952,Sewerage Systems
+MNG580162,,,4952,Sewerage Systems
+MNG580163,,,4952,Sewerage Systems
+MNG580164,,,4952,Sewerage Systems
+MNG580165,,,4952,Sewerage Systems
+MNG580166,,,4952,Sewerage Systems
+MNG580167,,,4952,Sewerage Systems
+MNG580168,,,8661,Religious Organizations
+MNG580169,,,4952,Sewerage Systems
+MNG580170,,,4952,Sewerage Systems
+MNG580171,,,4952,Sewerage Systems
+MNG580173,,,4952,Sewerage Systems
+MNG580174,,,4952,Sewerage Systems
+MNG580175,,,4952,Sewerage Systems
+MNG580176,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580177,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580178,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580179,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580181,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580182,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580183,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580184,,,4952,Sewerage Systems
+MNG580185,,,4952,Sewerage Systems
+MNG580186,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580187,,,4952,Sewerage Systems
+MNG580188,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580189,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580190,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580191,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580192,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580193,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580194,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580195,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580196,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580197,,,4952,Sewerage Systems
+MNG580198,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580199,,,4952,Sewerage Systems
+MNG580200,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580201,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580202,,,4952,Sewerage Systems
+MNG580203,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580204,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580205,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580206,,,4952,Sewerage Systems
+MNG580207,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580208,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580209,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580210,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580211,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580212,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580213,,,4952,Sewerage Systems
+MNG580214,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580215,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580216,,,4952,Sewerage Systems
+MNG580217,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580218,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580219,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580220,,,4952,Sewerage Systems
+MNG580221,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG580223,,,4952,Sewerage Systems
+MNG580224,,,4952,Sewerage Systems
+MNG580225,,,4952,Sewerage Systems
+MNG580227,,,4952,Sewerage Systems
+MNG580228,,,4952,Sewerage Systems
+MNG580229,,,4952,Sewerage Systems
+MNG585001,,,4952,Sewerage Systems
+MNG585002,,,4952,Sewerage Systems
+MNG585003,,,4952,Sewerage Systems
+MNG585006,,,4952,Sewerage Systems
+MNG585007,,,4952,Sewerage Systems
+MNG585008,,,4952,Sewerage Systems
+MNG585009,,,4952,Sewerage Systems
+MNG585010,,,4952,Sewerage Systems
+MNG585011,,,4952,Sewerage Systems
+MNG585012,,,4952,Sewerage Systems
+MNG585013,,,4952,Sewerage Systems
+MNG585014,,,4952,Sewerage Systems
+MNG585015,,,4952,Sewerage Systems
+MNG585016,,,4952,Sewerage Systems
+MNG585017,,,4952,Sewerage Systems
+MNG585018,,,4952,Sewerage Systems
+MNG585019,,,4952,Sewerage Systems
+MNG585020,,,4952,Sewerage Systems
+MNG585021,,,4952,Sewerage Systems
+MNG585022,,,4952,Sewerage Systems
+MNG585023,,,4952,Sewerage Systems
+MNG585024,,,4952,Sewerage Systems
+MNG585025,,,4952,Sewerage Systems
+MNG585026,,,4952,Sewerage Systems
+MNG585027,,,4952,Sewerage Systems
+MNG585028,,,4952,Sewerage Systems
+MNG585029,,,4952,Sewerage Systems
+MNG585030,,,4952,Sewerage Systems
+MNG585031,,,4952,Sewerage Systems
+MNG585032,,,4952,Sewerage Systems
+MNG585033,,,4952,Sewerage Systems
+MNG585034,,,4952,Sewerage Systems
+MNG585037,,,4952,Sewerage Systems
+MNG585038,,,4952,Sewerage Systems
+MNG585041,,,4952,Sewerage Systems
+MNG585042,,,4952,Sewerage Systems
+MNG585043,,,4952,Sewerage Systems
+MNG585044,,,4952,Sewerage Systems
+MNG585045,,,4952,Sewerage Systems
+MNG585047,,,4952,Sewerage Systems
+MNG585048,,,4952,Sewerage Systems
+MNG585049,,,4952,Sewerage Systems
+MNG585051,,,4952,Sewerage Systems
+MNG585053,,,4952,Sewerage Systems
+MNG585054,,,4952,Sewerage Systems
+MNG585055,,,4952,Sewerage Systems
+MNG585056,,,4952,Sewerage Systems
+MNG585057,,,4952,Sewerage Systems
+MNG585058,,,4952,Sewerage Systems
+MNG585059,,,4952,Sewerage Systems
+MNG585060,,,4952,Sewerage Systems
+MNG585061,,,4952,Sewerage Systems
+MNG585062,,,4952,Sewerage Systems
+MNG585064,,,4952,Sewerage Systems
+MNG585066,,,4952,Sewerage Systems
+MNG585067,,,4952,Sewerage Systems
+MNG585068,,,4952,Sewerage Systems
+MNG585071,,,4952,Sewerage Systems
+MNG585073,,,4952,Sewerage Systems
+MNG585074,,,4952,Sewerage Systems
+MNG585075,,,4952,Sewerage Systems
+MNG585076,,,4952,Sewerage Systems
+MNG585078,,,4952,Sewerage Systems
+MNG585079,,,4952,Sewerage Systems
+MNG585080,,,4952,Sewerage Systems
+MNG585081,,,4952,Sewerage Systems
+MNG585084,,,4952,Sewerage Systems
+MNG585086,,,4952,Sewerage Systems
+MNG585088,,,4952,Sewerage Systems
+MNG585089,,,4952,Sewerage Systems
+MNG585090,,,4952,Sewerage Systems
+MNG585091,,,4952,Sewerage Systems
+MNG585093,,,4952,Sewerage Systems
+MNG585094,,,4952,Sewerage Systems
+MNG585095,,,4952,Sewerage Systems
+MNG585097,,,4952,Sewerage Systems
+MNG585098,,,4952,Sewerage Systems
+MNG585099,,,4952,Sewerage Systems
+MNG585100,,,4952,Sewerage Systems
+MNG585102,,,4952,Sewerage Systems
+MNG585103,,,4952,Sewerage Systems
+MNG585104,,,4952,Sewerage Systems
+MNG585105,,,4952,Sewerage Systems
+MNG585106,,,4952,Sewerage Systems
+MNG585107,,,4952,Sewerage Systems
+MNG585108,,,4952,Sewerage Systems
+MNG585109,,,4952,Sewerage Systems
+MNG585110,,,4952,Sewerage Systems
+MNG585111,,,4952,Sewerage Systems
+MNG585112,,,4952,Sewerage Systems
+MNG585113,,,4952,Sewerage Systems
+MNG585114,,,4952,Sewerage Systems
+MNG585115,,,4952,Sewerage Systems
+MNG585116,,,4952,Sewerage Systems
+MNG585118,,,4952,Sewerage Systems
+MNG585119,,,4952,Sewerage Systems
+MNG585120,,,4952,Sewerage Systems
+MNG585121,,,4952,Sewerage Systems
+MNG585122,,,4952,Sewerage Systems
+MNG585123,,,4952,Sewerage Systems
+MNG585124,,,4952,Sewerage Systems
+MNG585125,,,4952,Sewerage Systems
+MNG585126,,,4952,Sewerage Systems
+MNG585127,,,4952,Sewerage Systems
+MNG585128,,,4952,Sewerage Systems
+MNG585129,,,4952,Sewerage Systems
+MNG585130,,,4952,Sewerage Systems
+MNG585131,,,4952,Sewerage Systems
+MNG585132,,,4952,Sewerage Systems
+MNG585133,,,4952,Sewerage Systems
+MNG585134,,,4952,Sewerage Systems
+MNG585135,,,4952,Sewerage Systems
+MNG585137,,,4952,Sewerage Systems
+MNG585138,,,4952,Sewerage Systems
+MNG585139,,,4952,Sewerage Systems
+MNG585140,,,4952,Sewerage Systems
+MNG585141,,,4952,Sewerage Systems
+MNG585142,,,4952,Sewerage Systems
+MNG585145,,,4952,Sewerage Systems
+MNG585146,,,4952,Sewerage Systems
+MNG585147,,,4952,Sewerage Systems
+MNG585148,,,4952,Sewerage Systems
+MNG585149,,,4952,Sewerage Systems
+MNG585150,,,4952,Sewerage Systems
+MNG585151,,,4952,Sewerage Systems
+MNG585152,,,4952,Sewerage Systems
+MNG585153,,,4952,Sewerage Systems
+MNG585154,,,4952,Sewerage Systems
+MNG585155,,,4952,Sewerage Systems
+MNG585156,,,4952,Sewerage Systems
+MNG585157,,,4952,Sewerage Systems
+MNG585158,,,4952,Sewerage Systems
+MNG585160,,,4952,Sewerage Systems
+MNG585161,,,4952,Sewerage Systems
+MNG585162,,,4952,Sewerage Systems
+MNG585163,,,4952,Sewerage Systems
+MNG585164,,,4952,Sewerage Systems
+MNG585165,,,4952,Sewerage Systems
+MNG585166,,,4952,Sewerage Systems
+MNG585167,,,4952,Sewerage Systems
+MNG585168,,,4952,Sewerage Systems
+MNG585169,,,4952,Sewerage Systems
+MNG585170,,,4952,Sewerage Systems
+MNG585171,,,4952,Sewerage Systems
+MNG585172,,,4952,Sewerage Systems
+MNG585174,,,4952,Sewerage Systems
+MNG585175,,,4952,Sewerage Systems
+MNG585176,,,4952,Sewerage Systems
+MNG585177,,,4952,Sewerage Systems
+MNG585178,,,4952,Sewerage Systems
+MNG585179,,,4952,Sewerage Systems
+MNG585180,,,4952,Sewerage Systems
+MNG585181,,,4952,Sewerage Systems
+MNG585182,,,4952,Sewerage Systems
+MNG585183,,,4952,Sewerage Systems
+MNG585185,,,4952,Sewerage Systems
+MNG585186,,,4952,Sewerage Systems
+MNG585187,,,4952,Sewerage Systems
+MNG585188,,,4952,Sewerage Systems
+MNG585189,,,4952,Sewerage Systems
+MNG585190,,,4952,Sewerage Systems
+MNG585191,,,4952,Sewerage Systems
+MNG585192,,,4952,Sewerage Systems
+MNG585193,,,4952,Sewerage Systems
+MNG585194,,,4952,Sewerage Systems
+MNG585195,,,4952,Sewerage Systems
+MNG585196,,,4952,Sewerage Systems
+MNG585197,,,4952,Sewerage Systems
+MNG585198,,,4952,Sewerage Systems
+MNG585199,,,4952,Sewerage Systems
+MNG585200,,,4952,Sewerage Systems
+MNG585201,,,4952,Sewerage Systems
+MNG585202,,,4952,Sewerage Systems
+MNG585203,,,4952,Sewerage Systems
+MNG585204,,,4952,Sewerage Systems
+MNG585205,,,4952,Sewerage Systems
+MNG585206,,,4952,Sewerage Systems
+MNG585208,,,4952,Sewerage Systems
+MNG585209,,,4952,Sewerage Systems
+MNG585210,,,4952,Sewerage Systems
+MNG585212,,,4952,Sewerage Systems
+MNG585214,,,4952,Sewerage Systems
+MNG585215,,,4952,Sewerage Systems
+MNG585217,,,4952,Sewerage Systems
+MNG585218,,,4952,Sewerage Systems
+MNG585219,,,4952,Sewerage Systems
+MNG585220,,,4952,Sewerage Systems
+MNG585221,,,4952,Sewerage Systems
+MNG585222,,,4952,Sewerage Systems
+MNG585223,,,4952,Sewerage Systems
+MNG585224,,,4952,Sewerage Systems
+MNG585225,,,4952,Sewerage Systems
+MNG585226,,,4952,Sewerage Systems
+MNG585227,,,4952,Sewerage Systems
+MNG585228,,,4952,Sewerage Systems
+MNG585229,,,4952,Sewerage Systems
+MNG585271,,,4952,Sewerage Systems
+MNG585279,,,4952,Sewerage Systems
+MNG585285,,,4952,Sewerage Systems
+MNG585292,,,4952,Sewerage Systems
+MNG585299,,,4952,Sewerage Systems
+MNG585314,,,4952,Sewerage Systems
+MNG585319,,,4952,Sewerage Systems
+MNG585326,,,4952,Sewerage Systems
+MNG585327,,,4952,Sewerage Systems
+MNG585334,,,4952,Sewerage Systems
+MNG585343,,,4952,Sewerage Systems
+MNG585345,,,4952,Sewerage Systems
+MNG585349,,,4952,Sewerage Systems
+MNG585363,,,4952,Sewerage Systems
+MNG585367,,,4952,Sewerage Systems
+MNG585369,,,4952,Sewerage Systems
+MNG585370,,,4952,Sewerage Systems
+MNG585371,,,4952,Sewerage Systems
+MNG585372,,,4952,Sewerage Systems
+MNG585373,,,4952,Sewerage Systems
+MNG585374,,,4952,Sewerage Systems
+MNG585377,,,4952,Sewerage Systems
+MNG585379,,,4952,Sewerage Systems
+MNG585380,,,4952,Sewerage Systems
+MNG585383,,,4952,Sewerage Systems
+MNG585385,,,4952,Sewerage Systems
+MNG585386,,,4952,Sewerage Systems
+MNG585387,,,4952,Sewerage Systems
+MNG585388,,,4952,Sewerage Systems
+MNG585390,,,4952,Sewerage Systems
+MNG585391,,,4952,Sewerage Systems
+MNG585393,,,4952,Sewerage Systems
+MNG585398,,,4952,Sewerage Systems
+MNG585401,,,4952,Sewerage Systems
+MNG585402,,,4952,Sewerage Systems
+MNG585403,,,4952,Sewerage Systems
+MNG585405,,,4952,Sewerage Systems
+MNG640002,,,4941,Water Supply
+MNG640018,,,4941,Water Supply
+MNG640022,,,4941,Water Supply
+MNG640025,,,4941,Water Supply
+MNG640031,,,4941,Water Supply
+MNG640045,,,4941,Water Supply
+MNG640056,,,4941,Water Supply
+MNG640068,,,4941,Water Supply
+MNG640077,,,4941,Water Supply
+MNG640079,,,4941,Water Supply
+MNG640081,,,4941,Water Supply
+MNG640084,,,4941,Water Supply
+MNG640096,,,4941,Water Supply
+MNG640099,,,4941,Water Supply
+MNG640102,,,4941,Water Supply
+MNG640105,,,4941,Water Supply
+MNG640109,,,4941,Water Supply
+MNG640113,,,9711,National Security
+MNG640117,,,4941,Water Supply
+MNG640118,,,4941,Water Supply
+MNG640119,,,4941,Water Supply
+MNG640120,,,4941,Water Supply
+MNG640121,,,4941,Water Supply
+MNG640123,,,4941,Water Supply
+MNG640124,,,4941,Water Supply
+MNG640127,,,4941,Water Supply
+MNG640128,,,4941,Water Supply
+MNG640129,,,4941,Water Supply
+MNG790134,,,1799,Special Trade Contractors
+MNG790156,,,7231,Beauty Shops
+MNG790159,,,3489,Ordnance And Accessories
+MNG790164,,,1799,Special Trade Contractors
+MNG790170,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNG790184,,,3795,Tanks And Tank Components
+MNG790237,,,1799,Special Trade Contractors
+MNG790249,,,5511,New And Used Car Dealers
+MNG790255,,,1799,Special Trade Contractors
+MNG790257,,,1799,Special Trade Contractors
+MNG790259,,,1799,Special Trade Contractors
+MNG790260,,,1799,Special Trade Contractors
+MNG790261,,,1799,Special Trade Contractors
+MNG790262,,,1799,Special Trade Contractors
+MNG790263,,,1799,Special Trade Contractors
+MNG790264,,,1799,Special Trade Contractors
+MNG790265,,,1799,Special Trade Contractors
+MNG790266,,,1799,Special Trade Contractors
+MNG790267,,,1799,Special Trade Contractors
+MNG790268,,,1799,Special Trade Contractors
+MNG790269,,,1799,Special Trade Contractors
+MNG790270,,,1799,Special Trade Contractors
+MNG790272,,,1799,Special Trade Contractors
+MNG790273,,,1799,Special Trade Contractors
+MNG790274,,,1799,Special Trade Contractors
+MNG790275,,,1799,Special Trade Contractors
+MNG790276,,,1799,Special Trade Contractors
+MNG790277,,,1799,Special Trade Contractors
+MNG790279,,,1799,Special Trade Contractors
+MNG790280,,,1799,Special Trade Contractors
+MNG790281,,,1799,Special Trade Contractors
+MNG790282,,,1799,Special Trade Contractors
+MNG790284,,,1799,Special Trade Contractors
+MNG790285,,,1799,Special Trade Contractors
+MNG790286,,,5531,Auto And Home Supply Stores
+MNG790287,,,1799,Special Trade Contractors
+MNG790290,,,1799,Special Trade Contractors
+MNG790291,,,4922,Natural Gas Transmission
+MNG790292,,,1799,Special Trade Contractors
+MNG790293,,,1799,Special Trade Contractors
+MNG790294,,,1799,Special Trade Contractors
+MNG790295,,,1799,Special Trade Contractors
+MNG790296,,,4959,Sanitary Services
+MNG790297,,,1799,Special Trade Contractors
+MNG790298,,,1799,Special Trade Contractors
+MNG790300,,,1799,Special Trade Contractors
+MNG790303,,,1799,Special Trade Contractors
+MNG790304,,,1799,Special Trade Contractors
+MNG790305,,,1799,Special Trade Contractors
+MNG790306,,,1799,Special Trade Contractors
+MNG790307,,,1799,Special Trade Contractors
+MNG790308,,,1799,Special Trade Contractors
+MNL059447,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+MNR05IA00,,,3273,Ready-Mixed Concrete
